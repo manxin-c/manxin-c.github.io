@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My research interests mainly lie in structural biology, with a focuse on histones, particularly in following areas: 
 
-What else do you need?
+**Histone Modifications:** Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Histone Assembly:** Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
