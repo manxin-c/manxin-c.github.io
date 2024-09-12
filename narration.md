@@ -14,7 +14,7 @@
 
 ## Key Results: Make three constructs with high yield.
 
-# 3. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.
+# 3. Project Title: Construct of .
 
 ## My Role: Make mutant constructs, mutants purification with FPLC&SEC, test binding affinity with Alpha LISA & Anisotropy Florescence, test methyltransferase activity.
 
