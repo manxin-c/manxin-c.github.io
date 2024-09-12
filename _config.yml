@@ -23,9 +23,8 @@ navbar-links:
   Home: "https://manxin-c.github.io/"
   About Me: "aboutme"
   Resaerch Experience: 
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Experiences List: "researchexperience"
+    - Detailed Narration: "narration"
 
 ################
 # --- Logo --- #
