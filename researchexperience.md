@@ -12,7 +12,7 @@ Short-term Scholar. July 2024 - Present
     Advisor: Prof. <a href="https://reich.chem.ucsb.edu/people/norbert-reich">Norbert Reich</a>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/assets/img/UCSB.gif" alt="UCSB" style="width: 160px; height: 100px;">
+    <img src="/assets/img/UCSB.png" alt="UCSB" style="width: 160px; height: 100px;">
   </div>
 </div>
 
