@@ -1,6 +1,6 @@
-
 ---
-title: Research experiences
+layout: post
+title: Research experiences  # 这里将标题改为 "Research experiences"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
