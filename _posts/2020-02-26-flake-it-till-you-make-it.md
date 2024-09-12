@@ -15,7 +15,6 @@ title: Research experience
       <img src="/assets/img/UCSB.png" alt="UCSB" style="height: 100px;">
     </div>
   </div>
-</div>
   <!-- SC, Peking University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center; margin-bottom: 40px;">
     <div style="flex: 1;">
