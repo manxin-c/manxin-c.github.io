@@ -1,7 +1,6 @@
 
 ---
-layout: post
-title: Research experience
+title: Research experiences
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
