@@ -7,8 +7,7 @@ title: Research experience
   <!-- DNMT3A, UCSB Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center; margin-bottom: 40px;">
     <div style="flex: 1;">
-      <strong style="font-size: 14px;">Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.</strong><br>
-      <strong style="font-size: 14px;">UCSB, Santa Barbara, CA</strong>
+      <strong style="font-size: 12px;"><a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 12px;">Reich Lab</a>UCSB, Santa Barbara, CA</strong>
       <p style="font-size: 12px;">Short-term Scholar. July 2024 - Present</p>
       <p style="font-size: 12px;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 12px;">Prof. Norbert Reich</a></p> 
     </div>
