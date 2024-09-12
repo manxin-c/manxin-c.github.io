@@ -22,8 +22,8 @@ author: Manxin Cao
 navbar-links:
   Home: "https://manxin-c.github.io/"
   About Me: "aboutme"
-  Resaerch Experience: 
-    - Experiences List: "researchexperience"
+  Resaerch: 
+    - Research Experiences: "researchexperience"
     - Projects List: "narration"
 
 ################
