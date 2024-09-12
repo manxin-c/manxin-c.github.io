@@ -1,44 +1,40 @@
+
 ---
 layout: post
 title: Research experience
 ---
 
-DNMT3A, UCSB, Santa Barbara, CA
-
-Short-term Scholar. July 2024 - Present
-
-<div style="display: flex; align-items: center;">
-  <div>
-    Advisor: Prof. <a href="[https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html](https://reich.chem.ucsb.edu/people/norbert-reich)">Norbert Reich</a>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <!-- DNMT3A, UCSB Experience -->
+  <div style="flex: 0 1 100%; display: flex; align-items: center; margin-bottom: 40px;">
+    <div style="flex: 1;">
+      <strong>DNMT3A, UCSB, Santa Barbara, CA</strong>
+      <p>Short-term Scholar. July 2024 - Present</p>
+    </div>
+    <div>
+      <img src="/assets/img/UCSB.png" alt="UCSB" style="height: 100px;">
+    </div>
   </div>
-  <div>
-    <img src="/assets/img/UCSB.gif" alt="UCSB" style="width: 160px; height: 100px;">
+  
+  <!-- SC, Peking University Experience -->
+  <div style="flex: 0 1 100%; display: flex; align-items: center; margin-bottom: 40px;">
+    <div style="flex: 1;">
+      <strong>SC, Peking University, Peking, China</strong>
+      <p>Exchange Student. September 2023 - January 2024</p>
+    </div>
+    <div>
+      <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
+    </div>
   </div>
-</div>
-
-SC, Peking University, Peking, China
-
-Exchange Student. September 2023 - January 2024
-
-<div style="display: flex; align-items: center;">
-  <div>
-    Advisor: Prof. <a href="https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html">Su, Xiaodong</a>
-  </div>
-  <div>
-    <img src="/assets/img/PKU.png" alt="PKU" style="width: 100px; height: 100px;">
-  </div>
-</div>
-
-Succinate dehydrogenase, Inner Mongolia University, Inner Mongolia, China
-
-B.S. September 2021 - Present
-
-
-<div style="display: flex; align-items: center;">
-  <div>
-    Advisor: Lecturer <a href="Zhou, Xiaoting](https://smkxxy.imu.edu.cn/info/1043/3217.htm">Zhou, Xiaoting</a>
-  </div>
-  <div>
-    <img src="/assets/img/IMU.png" alt="IMU" style="width: 100px; height: 100px;">
+  
+  <!-- Succinate dehydrogenase, Inner Mongolia University Experience -->
+  <div style="flex: 0 1 100%; display: flex; align-items: center;">
+    <div style="flex: 1;">
+      <strong>Succinate dehydrogenase, Inner Mongolia University, Inner Mongolia, China</strong>
+      <p>B.S. September 2021 - Present</p>
+    </div>
+    <div>
+      <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
+    </div>
   </div>
 </div>
