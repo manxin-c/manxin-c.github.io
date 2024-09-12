@@ -3,7 +3,7 @@ layout: post
 title: Research experience
 ---
 
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-top: 20px;">
   <!-- DNMT3A, UCSB Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center; margin-bottom: 40px;">
     <div style="flex: 1;">
