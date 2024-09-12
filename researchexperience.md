@@ -34,7 +34,7 @@ title: Research experience
   <!-- Succinate dehydrogenase, Inner Mongolia University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
-      <strong>Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.</strong>
+      <strong>Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.</strong>
       
       <strong>Inner Mongolia University, Inner Mongolia, China</strong>
       <p>Bachelor. March 2024 - Present</p>
