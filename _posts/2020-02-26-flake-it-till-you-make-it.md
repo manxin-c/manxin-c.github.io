@@ -16,7 +16,6 @@ title: Research experience
     </div>
   </div>
 </div>
-  
   <!-- SC, Peking University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center; margin-bottom: 40px;">
     <div style="flex: 1;">
@@ -28,7 +27,6 @@ title: Research experience
       <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
     </div>
   </div>
-  
   <!-- Succinate dehydrogenase, Inner Mongolia University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -39,8 +37,7 @@ title: Research experience
     <div>
       <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
     </div>
-  </div>
-
+  </div
   <!-- Succinate dehydrogenase, Inner Mongolia University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
