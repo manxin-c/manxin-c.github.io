@@ -9,7 +9,7 @@ title: Research experience
   <!-- ... 其他头部信息 ... -->
 </head>
 <body>
-  <h1 style="margin-bottom: 20px;">{{  }}</h1> <!-- 标题和这个div之间的空间 -->
+  <h1 style="margin-bottom: 20px;">  </h1> <!-- 标题和这个div之间的空间 -->
   
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-top: 20px;">
   <!-- DNMT3A, UCSB Experience -->
