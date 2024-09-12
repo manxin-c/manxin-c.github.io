@@ -2,7 +2,6 @@
 layout: post
 title: About me
 comments: true
-mathjax: true
 ---
 
 I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China.
