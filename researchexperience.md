@@ -1,56 +1,54 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- 第一部分 -->
-  <div>
-    <div>
-      DNMT3A, UCSB, Santa Barbara, CA
-    </div>
-    <div>
-      Short-term Scholar. July 2024 - Present
-    </div>
-    <div>
-      Advisor: Prof. <a href="https://reich.chem.ucsb.edu/people/norbert-reich">Norbert Reich</a>
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Experience</title>
+<style>
+  .experience-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .experience-details {
+    flex: 1;
+    margin-right: 20px;
+  }
+  .experience-image {
+    flex: 0 0 160px; /* Fixed width, don't grow, don't shrink */
+    margin-left: 20px;
+  }
+  .experience-image img {
+    width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+
+<div class="experience-container">
+  <div class="experience-details">
+    <h3>AWS AI Recognition, Amazon, Seattle, WA</h3>
+    <p>Applied Scientist Intern. May 2023-August 2023</p>
+    <p>Mentors: Bing Shuai, Xunyu Lin, N Dinesh Reddy; Manager: Davide Modolo</p>
   </div>
-  <!-- 图片 -->
-  <div>
-    <img src="/assets/img/UCSB.gif" alt="UCSB" style="width: 160px; height: 100px;">
+  <div class="experience-image">
+    <img src="path_to_your_image/aws_logo.png" alt="AWS Logo">
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- 第二部分 -->
-  <div>
-    <div>
-      SC, Peking University, Peking, China
-    </div>
-    <div>
-      Exchange Student. September 2023 - January 2024
-    </div>
-    <div>
-      Advisor: Prof. <a href="https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html">Su, Xiaodong</a>
-    </div>
+<div class="experience-container">
+  <div class="experience-details">
+    <h3>Computer Vision Group, UIUC, Champaign, IL</h3>
+    <p>Research Assistant. August 2022-Present</p>
+    <p>Advisor: Prof. Derek Hoiem</p>
   </div>
-  <!-- 图片 -->
-  <div>
-    <img src="/assets/img/PKU.png" alt="PKU" style="width: 100px; height: 100px;">
+  <div class="experience-image">
+    <img src="path_to_your_image/uiuc_logo.png" alt="UIUC Logo">
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- 第三部分 -->
-  <div>
-    <div>
-      Succinate dehydrogenase, Inner Mongolia University, Inner Mongolia, China
-    </div>
-    <div>
-      B.S. September 2021 - Present
-    </div>
-    <div>
-      Advisor: Lecturer <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm">Zhou, Xiaoting</a>
-    </div>
-  </div>
-  <!-- 图片 -->
-  <div>
-    <img src="/assets/img/IMU.png" alt="IMU" style="width: 100px; height: 100px;">
-  </div>
-</div>
+<!-- Add more experiences in the same format -->
+
+</body>
+</html>
