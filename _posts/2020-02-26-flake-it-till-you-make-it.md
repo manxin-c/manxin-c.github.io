@@ -5,7 +5,6 @@ date: 2024-09-11 22:51:36   # 您可以根据需要设置或更新这个日期
 ---
 
 Posted on {{ page.date | date: "%B %-d, %Y" }}  # 显示文章的发布日期
----
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <!-- DNMT3A, UCSB Experience -->
