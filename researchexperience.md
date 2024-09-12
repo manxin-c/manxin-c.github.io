@@ -3,9 +3,9 @@ layout: post
 title: Research experience
 ---
 
-## DNMT3A, UCSB, Santa Barbara, CA
+DNMT3A, **UCSB**, Santa Barbara, CA
 
-### Short-term Scholar. July 2024 - Present
+Short-term Scholar. July 2024 - Present
 
 <div style="display: flex; align-items: center;">
   <div>
@@ -18,9 +18,9 @@ title: Research experience
 
 ---
 
-## SC, Peking University, Peking, China
+SC, **Peking University**, Peking, China
 
-### Exchange Student. September 2023 - January 2024
+Exchange Student. September 2023 - January 2024
 
 <div style="display: flex; align-items: center;">
   <div>
@@ -33,9 +33,9 @@ title: Research experience
 
 ---
 
-## Succinate dehydrogenase, Inner Mongolia University, Inner Mongolia, China
+Succinate dehydrogenase, **Inner Mongolia University**, Inner Mongolia, China
 
-### B.S. September 2021 - Present
+B.S. September 2021 - Present
 
 <div style="display: flex; align-items: center;">
   <div>
