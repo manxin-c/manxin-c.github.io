@@ -24,7 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Resaerch: 
     - Research Experiences: "researchexperience"
-    - Projects List: "narration"
+    - Project List: "projectlist"
 
 ################
 # --- Logo --- #
