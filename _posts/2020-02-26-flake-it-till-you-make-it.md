@@ -57,3 +57,4 @@ title: Research experience
     </div>
   </div>
 
+[**More details**](researchexperience.md)
