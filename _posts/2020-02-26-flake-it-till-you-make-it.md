@@ -57,4 +57,4 @@ title: Research experience
     </div>
   </div>
 
-  <strong style="font-size: 16px;"><a href="https://manxin-c.github.io/researchexperience/">More details</a></p>
+  <p><strong style="font-size: 16px;"><a href="https://manxin-c.github.io/researchexperience/">More details</a></strong></p>
