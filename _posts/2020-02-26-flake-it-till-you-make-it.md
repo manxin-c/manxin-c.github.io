@@ -56,5 +56,3 @@ title: Research experience
       <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
     </div>
   </div>
-
-[**More details**](researchexperience.md)
