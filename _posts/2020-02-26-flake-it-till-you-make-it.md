@@ -39,7 +39,7 @@ title: Research experience
     <div style="flex: 1;">
       <strong style="font-size: 17px;">Zhou Lab, Inner Mongolia University, Inner Mongolia, China</strong>
       <p style="font-size: 17px;">Co-Lead. March 2024 - Present</p>
-      <p style="font-size: 17px;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
+      <p style="font-size: 17px;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Lecturer Zhou, Xiaoting</a></p>
     </div>
     <div>
       <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
