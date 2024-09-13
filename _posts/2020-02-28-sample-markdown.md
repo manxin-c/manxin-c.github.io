@@ -13,4 +13,3 @@ date: 2024-09-11 22:57:47 -0700  # 您可以根据需要设置或更新这个日
 
 <p style="font-size: 17px;"><strong>Histone Assembly:</strong> Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.</p>
 
-<strong style="font-size: 16px;"><a href="https://manxin-c.github.io/aboutme/">More details</a></p>
