@@ -56,3 +56,5 @@ title: Research experience
       <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
     </div>
   </div>
+
+  <strong style="font-size: 16px;"><a href="https://manxin-c.github.io/researchexperience/">More details</a></p>
