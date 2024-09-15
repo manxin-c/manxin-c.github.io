@@ -12,7 +12,7 @@ My research interests mainly lie in structural biology, with a focuse on histone
 **Histone Assembly:** Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
 
 ###**About my bachelor GPA & ranking & transcript:**
-**GPA**:
-**Ranking:**
+**GPA**: 3.87/4
+**Ranking:** 1/80 (1.25%)
 **[Transcript](:**
 
