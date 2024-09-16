@@ -2,7 +2,23 @@
 layout: page
 title: Project list
 ---
+<style>
+.section-number {
+  position: relative;
+  padding-left: 2em; /* Adjust the space to position the number */
+}
 
+.section-number::after {
+  content: "1"; /* This is the section number */
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+</style>
+
+<section class="section-number">
+  Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.
+</section>
 ### **1. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
 
 **Short-term scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
