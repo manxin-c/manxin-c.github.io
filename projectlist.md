@@ -26,7 +26,7 @@ title: Project list
 #### Auxilliary roles:
 1. Help another project with Cryo-EM to prepare the proteins and participate in the meetings.
 
-#### Notewirthy qualities displayed:
+#### Noteworthy qualities displayed:
 1. Fast learner: I repeated every experiments by myself after shadowing the students in lab for only one time with successful outcomes, including purification, alphalisa, mutant construct building and methyltransferase.
 2. Hardworking: I always prioritize the experiments' flow to maximize the efficiency for a earlier release of the scientific truth.
 3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
@@ -53,7 +53,7 @@ title: Project list
 #### Key Accomplishments:
 1. Make two impirtant mutant constructs with high yield and relatively high purity.
 
-#### Notewirthy qualities displayed:
+#### Noteworthy qualities displayed:
 1. Reasonable Experiment Scheduling: I possess a comprehensive understanding of the entire workflow, which allows me to create and maintain a logical and efficient schedule for experiments. This foresight ensures that all project milestones are met in a timely manner without compromising the quality of research.
 2. Extensive Literature Review: I have read a significant number of papers related to the project, which has equipped me with a deeper understanding of the subject matter and the ability to effectively troubleshoot any issues that arise. This proactive approach not only strengthens my knowledge base but also contributes to the overall efficiency and success of the project.
 
@@ -83,6 +83,6 @@ To construct a series of microorganisms capable of degrading straw in an environ
 #### Key Accomplishments:
 1. Led a team of five people to complete the project defense and mid-term defense. Our work on this project earned us an award at the university level.
 
-#### Notewirthy qualities displayed:
+#### Noteworthy qualities displayed:
 1. Leardership: I reasonably assign work to my group members and effectively coordinate our efforts to achieve project goals.
 2. Initiative: I am eager to learn and proactively seek out information to contribute to the project. This is my first time engaging with a scientific project, and I am committed to honing my skills and mastering the daily experimental procedures.
