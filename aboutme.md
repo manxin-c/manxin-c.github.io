@@ -14,13 +14,10 @@ My research interests mainly lie in structural biology, with a focuse on histone
 ### About my bachelor GPA & ranking & transcript
 
 * **GPA**: 3.87/4
-
 * **Ranking:** 1/80 (1.25%)
-
 * **[Transcript](assets/Transcript):**
-
-* Core courses: Cell Biology (93) | Biochemistry (92) |General Biology (98) |Genetics (90) | Core courses: Genetic Engineering A (92)
-* Basic courses: College Physics B1&B2 (96) | Organic Chemistry (96) | Advanced Mathematics B1 (93) | Advanced Mathematics B2 (91) | Enzyme Engineering (92)
+* **Core courses:** Cell Biology (93) | Biochemistry (92) |General Biology (98) |Genetics (90) | Core courses: Genetic Engineering A (92)
+* **Basic courses:** College Physics B1&B2 (96) | Organic Chemistry (96) | Advanced Mathematics B1 (93) | Advanced Mathematics B2 (91) | Enzyme Engineering (92)
 
 
 
