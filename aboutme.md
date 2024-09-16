@@ -2,16 +2,6 @@
 layout: page
 title: About me
 ---
-
-<style>
-  .container {
-    max-width: 800px; /* 你可以根据需要调整这个宽度 */
-    margin: auto;
-    padding: 20px;
-  }
-</style>
-
-<div class="container">
  
 
   I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China.
