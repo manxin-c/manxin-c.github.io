@@ -36,7 +36,7 @@ Structural Biology, Histone Modification, Histone Chaperone.
   - Advanced Mathematics B1: 93
   - Advanced Mathematics B2: 91
   - Enzyme Engineering: 92
-- **[Click here to see my transcript](https://raw.githubusercontent.com/your-username/your-repo/main/assets/Transcript.pdf)**
+- **[Click here to see my transcript](https://raw.githubusercontent.com/your-username/your-repo/main/assets/transcript.pdf)**
 
 #### **Main Honors and Scholarships:**
 
