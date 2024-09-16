@@ -53,7 +53,7 @@ Structural Biology, Histone Modification, Histone Chaperone.
 - **Language:**
   - CET4: 606
   - CET6: 582
-  - TOEFL: Score expected on 9/17
+  - TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing:23)
 
 #### **Interests:**
 - Skiing
