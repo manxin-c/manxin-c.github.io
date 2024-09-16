@@ -23,7 +23,7 @@ author: Manxin Cao
 navbar-links:
   Home: "https://manxin-c.github.io/"
   About Me: "aboutme"
-  Research: 
+  Research:  
     - Research Experience: "researchexperience"
     - Project List: "projectlist"
 
