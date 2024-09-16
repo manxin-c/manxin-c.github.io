@@ -24,7 +24,7 @@ title: About me
   #### **Histone Assembly:**
   Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
 
-  ### Key Words
+  #### Key Words
 Structural Biology, Histone Modification, Histone Chaperones.
 
   ## Academic Achievements
