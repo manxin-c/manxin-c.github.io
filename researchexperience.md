@@ -9,15 +9,15 @@ I have four research experiences, starting from the earliest to the most recent.
 <hr>
 
  <div style="flex: 0 1 100%; display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <strong style="font-size: 17px;">Mo Lab, Inner Mongolia University, Inner Mongolia, China</strong>
-      <p style="font-size: 17px;">Lead. March 2023 - Present</p>
-      <p style="font-size: 17px;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1050/3124.htm" target="_blank">Prof. Mo, Rigen</a></p>
-    </div>
-    <div>
-      <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
-    </div>
+  <div style="flex: 1;">
+    <strong style="font-size: 17px; margin-bottom: 0;">Mo Lab, Inner Mongolia University, Inner Mongolia, China</strong>
+    <p style="font-size: 17px; margin: 0;">Lead. March 2023 - Present</p>
+    <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1050/3124.htm" target="_blank">Prof. Mo, Rigen</a></p>
   </div>
+  <div>
+    <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
+  </div>
+</div>
 My first research experience at my undergraduate university in Professor Mo’s lab was the first time I truly worked on a real project, leading a group of four other students. However, a severe epidemic struck my city that year, causing us to lose an entire semester of lab work. To make things worse, many of my experimental classes were moved online, and we missed nearly two semesters on campus. When I first joined the lab, I knew very little about experiments, so I shadowed graduate students, learning some basic techniques. But I was also balancing an extremely hectic academic schedule—16 classes for a total of 33 credits—to make up for postponed courses due to the epidemic. Despite this, I led my team to a successful project defense, and we won the second prize at the China International College Students' Innovation Competition at the university level. Although my lab time was limited, I learned some basic techniques like plating and SDS-PAGE, but in a disjointed way, without fully understanding the complete experimental workflow. At the end of that semester, I was selected as an exchange student at Peking University, and I jumped at the chance.
 
 <hr>
