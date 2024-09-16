@@ -24,7 +24,7 @@ title: Research experience
     </div>
   </div>
   Brief Introduction: Buring these three months,
-    
+  <hr>
   <!-- SC, Peking University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -36,8 +36,8 @@ title: Research experience
       <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
     </div>
   </div>
-Brief Introduction: Buring these three months,
-  
+  Brief Introduction: Buring these three months,
+  <hr>
   <!-- Succinate dehydrogenase, Inner Mongolia University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -50,7 +50,7 @@ Brief Introduction: Buring these three months,
     </div>
   </div>
   Brief Introduction: Buring these three months,
-
+  <hr>
   <!-- Succinate dehydrogenase, Inner Mongolia University Experience -->
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -63,3 +63,4 @@ Brief Introduction: Buring these three months,
     </div>
   </div>
   Brief Introduction: Buring these three months,
+  <hr>
