@@ -19,6 +19,9 @@
 #### Key Accomplishments:
 1. Make two impirtant mutant constructs with high yield and relatively high purity.
 
+#### Auxilliary roles:
+1. Help another project with Cryo-EM to prepare the proteins and participate in the meetings.
+
 #### Notewirthy qualities displayed:
 1. Fast learner: I repeated every experiments by myself after shadowing the students in lab for only one time with successful outcomes, including purification, alphalisa, mutant construct building and methyltransferase.
 2. Hardworking: I always prioritize the experiments' flow to maximize the efficiency for a earlier release of the scientific truth.
@@ -31,10 +34,9 @@
 **March 2024-Present**
 
 #### Main experiments been done: 
-* Make mutant constructs(PCR, transformation, expression)
-* Mutants purification with FPLC&SEC
-* Test binding affinity with Alpha LISA & Anisotropy Florescence
-* Test methyltransferase activity.
+* Acquire the proteins (PCR, transformation, expression) with differnet vectors and distributions.
+* Proteins purification with gravity columns & SEC.
+* Use Cryo-EM to elucidate the structure of this tetramer.
 
 #### Challenges & Solutions: 
 1. Hard to find a proper buffer condition for Alpha LISA to decrease the disruption from non-specific interactions.
@@ -71,12 +73,8 @@ To construct a series of microorganisms capable of degrading straw in an environ
 * Try knock out extra genes connected with the permeability of the walls.
 
 #### Key Accomplishments:
-1. Make two impirtant mutant constructs with high yield and relatively high purity.
+1. Led a team of five people to complete the project defense and mid-term defense. Our work on this project earned us an award at the university level.
 
 #### Notewirthy qualities displayed:
-1. Fast learner: I repeated every experiments by myself after shadowing the students in lab for only one time with successful outcomes, including purification, alphalisa, mutant construct building and methyltransferase.
-2. Hardworking: I always prioritize the experiments' flow to maximize the efficiency for a earlier release of the scientific truth.
-3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
-
-Key Results: I led a team of five people to complete the project defense and mid-term defense. Our work on this project earned us an award at the university level.
- .
+1. Leardership: I reasonably assign work to my group members and effectively coordinate our efforts to achieve project goals.
+2. Initiative: I am eager to learn and proactively seek out information to contribute to the project. This is my first time engaging with a scientific project, and I am committed to honing my skills and mastering the daily experimental procedures.
