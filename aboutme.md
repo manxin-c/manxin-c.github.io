@@ -23,6 +23,7 @@ Structural Biology, Histone Modification, Histone Chaperone.
 
 - **GPA:** 3.87/4
 - **Ranking:** 1/80 (Top 1.25%)
+- **Average Scores:** 90.6
 - **Core Courses:**
   - Cell Biology: 93
   - Biochemistry: 92
@@ -47,14 +48,14 @@ Structural Biology, Histone Modification, Histone Chaperone.
 
 ## Skills and Interests
 
-### **Skills:**
+#### **Skills:**
 - **Computer:** Microsoft Office (PowerPoint, Word, Excel), R (basic)
 - **Language:**
   - CET4: 606
   - CET6: 582
   - TOEFL: Score expected on 9/17
 
-### **Interests:**
+#### **Interests:**
 - Skiing
 - Hip-Hop
 - Travel
