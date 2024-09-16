@@ -44,7 +44,7 @@ Structural Biology, Histone Modification, Histone Chaperone.
 - Inner Mongolia University
   - The First Prize Scholarship - April 2023 & April 2024
   - Merit Student - May 2023 & April 2024
-  - Model Student Scholarship - May 2024
+  - Model Student Scholarship - May 2024 
 
 ## Skills and Interests
 
