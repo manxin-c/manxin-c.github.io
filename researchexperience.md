@@ -55,13 +55,15 @@ I have four research experiences, starting from the earliest to the most recent.
 <hr>
 
  <div style="flex: 0 1 100%; display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <strong style="font-size: 17px;"><a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 17px;">Reich Lab</a>, UCSB, Santa Barbara, CA</strong>
-      <p style="font-size: 17px;">Short-term Scholar. July 2024 - Present</p>
-      <p style="font-size: 17px;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;">Prof. Norbert Reich</a></p> 
-    </div>
-    <div>
-      <img src="/assets/img/UCSB.png" alt="UCSB" style="height: 100px;">
-    </div>
+  <div style="flex: 1;">
+    <strong style="font-size: 17px; margin-bottom: 0;">
+      <a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 17px;">Reich Lab</a>, UCSB, Santa Barbara, CA
+    </strong>
+    <p style="font-size: 17px; margin: 0;">Short-term Scholar. July 2024 - Present</p>
+    <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;">Prof. Norbert Reich</a></p>
   </div>
+  <div>
+    <img src="/assets/img/UCSB.png" alt="UCSB" style="height: 100px;">
+  </div>
+</div>
 <p style="font-size: 16px;">In April, I was invited by Professor Reich to conduct summer research in his lab at UCSB. He was extremely helpful, providing all the necessary documents for my visa application. I received my visa on July 18th, which coincidentally was the day I left Lecturer Zhou’s lab. I immediately planned my flight and accommodation in the U.S. I arrived on July 24th, but unfortunately, Professor Reich was out on a short trip. However, the next day, he organized a lab meeting where everyone shared their projects with me. Although the structural biology project I initially wanted to join was in a waiting phase due to sample analysis, I chose a project that intrigued me during the meeting: one focused on DNMT3A, examining its binding and methylation activity. I also kept in touch with the student working on the structural project to stay updated. Working on DNMT3A allowed me to learn various enzyme activity assays, which I had read about in papers before arriving. Now, I’m collaborating with a graduate student to explore and understand the properties of this enzyme, and I truly enjoy the excitement of scientific discovery, which motivates me to work hard in the lab.</p>
