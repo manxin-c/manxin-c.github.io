@@ -20,21 +20,7 @@ My first research experience at my undergraduate university in Professor Mo’s 
 
 <hr>
 
- <div style="flex: 0 1 100%; display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <strong style="font-size: 17px;">Zhou Lab, Inner Mongolia University, Inner Mongolia, China</strong>
-      <p style="font-size: 17px;">Co-Lead. March 2024 - Present</p>
-      <p style="font-size: 17px;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
-    </div>
-    <div>
-      <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
-    </div>
-  </div>
-During my semester at Peking University, I took 15 credits and carefully selected a lab to join. At that time, I wasn’t sure what truly interested me in research. However, after attending a lecture by Professor Zihe Rao from Tsinghua University on the structural biology of the virus SCARB2, I became fascinated by the complex structures and dynamic interactions between the virus and its substrate. This led me to join Professor Xiaodong Su’s lab, which specializes in structural biology. For nearly four months, I shadowed a postgraduate student, learning the entire workflow from gene acquisition via PCR to protein purification through size-exclusion chromatography (SEC), as well as initial crystallization screening. I shadowed several experiments but quickly progressed because the postgraduate student trusted me to work independently after minimal supervision. For tasks like vector extraction, where there was a protocol to follow, she let me work without overseeing everything. I recorded the procedures carefully and took detailed notes, asking questions whenever I was confused. Sometimes, my recordings lasted several hours. This hands-on experience significantly improved my experimental skills. In addition to basic experiments, I also observed techniques like SPR, X-ray crystallography, negative staining, and flow cytometry, though these were less frequent since negative results often required repeating prior steps. This experience solidified my passion for structural biology and gave me a deeper understanding of how scientific research works. It was also during this time that I decided to study abroad, influenced by professors and students in Su’s lab, who shared valuable information about planning for graduate research and summer opportunities.
-
-<hr>
-
- <div style="flex: 0 1 100%; display: flex; align-items: center;">
+<div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
       <strong style="font-size: 17px;"><a href="https://www.bio.pku.edu.cn/homes/Index/news_cont_jl/17/63.html" target="_blank" style="font-size: 17px;">Su Lab</a>, Peking University, Peking, China</strong>
       <p style="font-size: 17px;">Exchange Student. September 2023 - January 2024</p>
@@ -44,6 +30,20 @@ During my semester at Peking University, I took 15 credits and carefully selecte
       <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
     </div>
   </div>
+During my semester at Peking University, I took 15 credits and carefully selected a lab to join. At that time, I wasn’t sure what truly interested me in research. However, after attending a lecture by Professor Zihe Rao from Tsinghua University on the structural biology of the virus SCARB2, I became fascinated by the complex structures and dynamic interactions between the virus and its substrate. This led me to join Professor Xiaodong Su’s lab, which specializes in structural biology. For nearly four months, I shadowed a postgraduate student, learning the entire workflow from gene acquisition via PCR to protein purification through size-exclusion chromatography (SEC), as well as initial crystallization screening. I shadowed several experiments but quickly progressed because the postgraduate student trusted me to work independently after minimal supervision. For tasks like vector extraction, where there was a protocol to follow, she let me work without overseeing everything. I recorded the procedures carefully and took detailed notes, asking questions whenever I was confused. Sometimes, my recordings lasted several hours. This hands-on experience significantly improved my experimental skills. In addition to basic experiments, I also observed techniques like SPR, X-ray crystallography, negative staining, and flow cytometry, though these were less frequent since negative results often required repeating prior steps. This experience solidified my passion for structural biology and gave me a deeper understanding of how scientific research works. It was also during this time that I decided to study abroad, influenced by professors and students in Su’s lab, who shared valuable information about planning for graduate research and summer opportunities.
+
+<hr>
+
+<div style="flex: 0 1 100%; display: flex; align-items: center;">
+   <div style="flex: 1;">
+     <strong style="font-size: 17px;">Zhou Lab, Inner Mongolia University, Inner Mongolia, China</strong>
+     <p style="font-size: 17px;">Co-Lead. March 2024 - Present</p>
+     <p style="font-size: 17px;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
+   </div>
+   <div>
+     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
+   </div>
+ </div>
 When I returned to my home university, I sought out a professor who focused on structural biology so I could apply for a summer research lab in the same field. I was fortunate to find Lecturer Zhou, who works on membrane proteins, particularly Complex II in the respiratory chain, and she welcomed me into her lab. At the same time, I continued my first project with my original group, and we made significant progress, passing the mid-term defense. This was the first time I managed an entire project independently, from primer design to protein purification using size-exclusion chromatography. I also became responsible for smaller tasks like storing bacterial cultures and making antibiotic plates, which I previously hadn’t paid much attention to since I always followed the graduate students' instructions. Unfortunately, the project didn’t go as smoothly as I hoped, as we struggled to achieve a high yield of proteins with the correct ratio of subunits. I tried various strategies, such as truncating random coil regions and using different vector combinations, but we still didn’t get the desired results. Nevertheless, I gained a comprehensive understanding of the experimental workflow.
 
 <hr>
