@@ -3,35 +3,61 @@ layout: page
 title: About me
 ---
 
-I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. 
+# About Me
 
-My research interests mainly lie in structural biology, with a focuse on histones, particularly in following areas: 
+I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focus on histones, particularly in the following areas:
 
-**Histone Modifications:** Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation. 
+## Research Interests
 
-**Histone Assembly:** Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
+### **Histone Modifications:**
+Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation.
 
-Key words: Structural biology, histone modification, methyltransferase.
+### **Histone Assembly:**
+Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
 
-### About my bachelor GPA & ranking & highlight grades
+### **Key Words：**
+- Structural Biology
+- Histone Modification
+- Methyltransferase
 
-* **GPA**: 3.87/4
-* **Ranking:** 1/80 (1.25%)
-* **Core courses:** Cell Biology (93), Biochemistry (92), General Biology (98), Genetics (90), Genetic Engineering A (92)
-* **Basic courses:** College Physics B1&B2 (96), Organic Chemistry (96), Advanced Mathematics B1 (93), Advanced Mathematics B2 (91), Enzyme Engineering (92)
-* **[Click here to see my transcript](assets/Transcript.pdf)**
+## Academic Achievements
 
+### **GPA & Ranking & Highlight Grades**
 
+- **GPA:** 3.87/4
+- **Ranking:** 1/80 (Top 1.25%)
+- **Core Courses:**
+  - Cell Biology: 93
+  - Biochemistry: 92
+  - General Biology: 98
+  - Genetics: 90
+  - Genetic Engineering A: 92
+- **Basic Courses:**
+  - College Physics B1&B2: 96
+  - Organic Chemistry: 96
+  - Advanced Mathematics B1: 93
+  - Advanced Mathematics B2: 91
+  - Enzyme Engineering: 92
+- **[Click here to see my transcript](https://raw.githubusercontent.com/your-username/your-repo/main/assets/Transcript.pdf)**
 
-### Main Honors and scholarships:
+### **Main Honors and Scholarships:**
 
-* Ministry of Education National Scholarship                                                                                                       October 2023
-* Inner Mongolia University
-* The First Prize Scholarship                                                                                                           April 2023 & April 2024
-* Merit student                                                                                                                           May 2023 & April 2024
-* Model Student Scholarship                                                                                                                            May 2024
+- Ministry of Education National Scholarship - October 2023
+- Inner Mongolia University
+  - The First Prize Scholarship - April 2023 & April 2024
+  - Merit Student - May 2023 & April 2024
+  - Model Student Scholarship - May 2024
 
-### SKILLS AND OTHERS
-* Computer: Microsoft offices (PowerPoint, Word, Excel), R (basic)
-* Language: CET4: 606, CET6: 582, TOEFL: Score is expected to be available on 9/17
-* Interests: Skiing, Hip-Hop and Travel
+## Skills and Interests
+
+### **Skills:**
+- **Computer:** Microsoft Office (PowerPoint, Word, Excel), R (basic)
+- **Language:**
+  - CET4: 606
+  - CET6: 582
+  - TOEFL: Score expected on 9/17
+
+### **Interests:**
+- Skiing
+- Hip-Hop
+- Travel
