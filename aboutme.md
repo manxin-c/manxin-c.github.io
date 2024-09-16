@@ -11,6 +11,8 @@ My research interests mainly lie in structural biology, with a focuse on histone
 
 **Histone Assembly:** Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
 
+Key words: Structural biology, histone modification, methyltransferase.
+
 ### About my bachelor GPA & ranking & highlight grades
 
 * **GPA**: 3.87/4
