@@ -31,7 +31,7 @@ title: Project list
 2. Hardworking: I always prioritize the experiments' flow to maximize the efficiency for a earlier release of the scientific truth.
 3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
 
-
+<div style="height: 1em;"></div>
 <hr>
 
 ### **2. Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
@@ -57,7 +57,7 @@ title: Project list
 1. Reasonable Experiment Scheduling: I possess a comprehensive understanding of the entire workflow, which allows me to create and maintain a logical and efficient schedule for experiments. This foresight ensures that all project milestones are met in a timely manner without compromising the quality of research.
 2. Extensive Literature Review: I have read a significant number of papers related to the project, which has equipped me with a deeper understanding of the subject matter and the ability to effectively troubleshoot any issues that arise. This proactive approach not only strengthens my knowledge base but also contributes to the overall efficiency and success of the project.
 
-
+<div style="height: 1em;"></div>
 <hr>
 
 ### **3. Construction of engineered E. coli that can degrade straw**
