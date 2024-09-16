@@ -4,7 +4,7 @@ title: Research experience
 ---
 
 
-I have four research experiences, listed in reverse order from earliest to the recent ones. These experiences have greatly helped me discover my research interests and improve my proficiency in various experiments. Gradually, I have developed a scientific mindset that allows me to design projects in a correct and meaningful way. I'd love to explain how these experiences have shaped my research skills, but if you're not interested in the details, I’ve provided a brief summary below.
+I have four research experiences, starting from the earliest to the most recent. These experiences have played a crucial role in helping me figure out where my true interests lie and have improved my skills in handling different types of experiments. Over time, I’ve developed a better understanding of how to approach research in a logical and effective way. Now, I feel more confident in designing my projects, making sure each step is well thought out and meaningful. These opportunities have not only taught me important lab techniques but also how to think like a scientist.
 
  <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
