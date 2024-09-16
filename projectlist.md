@@ -1,5 +1,5 @@
 
-##**1. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
+## **1. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
 
 **Short-term scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
 **July 2024-Present**
