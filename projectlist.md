@@ -1,4 +1,7 @@
-Title: Project list
+---
+layout: page
+title: Project list
+---
 
 ### **1. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
 
