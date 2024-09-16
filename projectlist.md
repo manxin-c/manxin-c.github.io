@@ -25,7 +25,7 @@
 3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
 
 
-**2. Project Title: Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
+## **2. Project Title: Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
 
 **Project Co-Lead---IMU, Zhou lab**
 **March 2024-Present**
@@ -50,23 +50,25 @@
 2. Hardworking: I always prioritize the experiments' flow to maximize the efficiency for a earlier release of the scientific truth.
 3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
 
-**3. Project Title: Construction of engineered E. coli that can degrade straw**
+## **3. Project Title: Construction of engineered E. coli that can degrade straw**
 
 **Project Lead ---IMU, Mo lab**
 **March 2023-Present**
 
-My Role: To construct a series of microorganisms capable of degrading straw in an environmentally friendly manner, we designed a plan to clone the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi. Our goal is to transfer these genes into ΔmrdA-Escherichia coli, which has strong cell wall permeability. We aim to improve conditions for the high-level expression and extracellular secretion of target proteins in the engineered E. coli.
-#### Main experiments been done: 
-* Make mutant constructs(PCR, transformation, expression)
-* Mutants purification with FPLC&SEC
-* Test binding affinity with Alpha LISA & Anisotropy Florescence
-* Test methyltransferase activity.
+#### Main Purpose: 
+To construct a series of microorganisms capable of degrading straw in an environmentally friendly manner, we designed a plan to clone the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi. Our goal is to transfer these genes into ΔmrdA-Escherichia coli, which has strong cell wall permeability. We aim to improve conditions for the high-level expression and extracellular secretion of target proteins in the engineered E. coli.
+
+#### Main experiments: 
+* Fungal RNA Extraction and Reverse Transcription to cDNA.
+* Acquire the target protein.
+* Purifiaction with gravity columns.
+* Determine the degree of straw degradation by the constructed microbial strains using Fourier-transform infrared spectroscopy (FTIR).
 
 #### Challenges & Solutions: 
-1. Hard to find a proper buffer condition for Alpha LISA to decrease the disruption from non-specific interactions.
-* Try different combination of distinct salt concentration and different DNA used.
-2. Hard to get both the high purity while a high yield of purified proteins.
-* Try different concentration of imidazoles & use multiple tags & different techniques to purify the proteins.
+1. Hard to extract the RNA with a desirable band showing on gels.
+* Try different culture with different composition to culture the fungi.
+2. Hard to get proteins released outside the walls.
+* Try knock out extra genes connected with the permeability of the walls.
 
 #### Key Accomplishments:
 1. Make two impirtant mutant constructs with high yield and relatively high purity.
