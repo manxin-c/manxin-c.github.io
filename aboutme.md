@@ -15,7 +15,7 @@ Investigating how histone modifications regulate gene transcription and the role
 ### **Histone Assembly:**
 Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
 
-### **Key Words：**
+### **Key Words:**
 - Structural Biology
 - Histone Modification
 - Methyltransferase
