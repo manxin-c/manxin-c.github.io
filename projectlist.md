@@ -1,5 +1,6 @@
+Title: Project list
 
-## **1. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
+### **1. Project Title: Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
 
 **Short-term scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
 **July 2024-Present**
@@ -28,7 +29,7 @@
 3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
 
 
-## **2. Project Title: Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
+### **2. Project Title: Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
 
 **Project Co-Lead---IMU, Zhou lab**
 **March 2024-Present**
@@ -51,7 +52,7 @@
 1. Reasonable Experiment Scheduling: I possess a comprehensive understanding of the entire workflow, which allows me to create and maintain a logical and efficient schedule for experiments. This foresight ensures that all project milestones are met in a timely manner without compromising the quality of research.
 2. Extensive Literature Review: I have read a significant number of papers related to the project, which has equipped me with a deeper understanding of the subject matter and the ability to effectively troubleshoot any issues that arise. This proactive approach not only strengthens my knowledge base but also contributes to the overall efficiency and success of the project.
 
-## **3. Project Title: Construction of engineered E. coli that can degrade straw**
+### **3. Project Title: Construction of engineered E. coli that can degrade straw**
 
 **Project Lead ---IMU, Mo lab**
 **March 2023-Present**
