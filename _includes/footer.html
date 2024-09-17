@@ -13,9 +13,6 @@
       <p class="copyright text-muted">
       {% if site.author %}
         {{ site.author }}
-      {% if site.email %}
-        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-      {% endif %}
         &nbsp;&bull;&nbsp;
       {% endif %}
       {{ site.time | date: '%Y' }}
@@ -40,10 +37,9 @@
        {% endif%}
 
       </p>
-      {% unless site.remove-ads %}{% comment %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
-      </p>{% endcomment %}{% endunless %}
+      {% unless site.remove-ads %}<p class="theme-by text-muted">
+       Email: caomanxin@gmail.com
+      </p>{% endunless %}
       </div>
     </div>
   </div>
