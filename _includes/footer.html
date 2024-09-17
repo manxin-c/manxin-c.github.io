@@ -13,6 +13,9 @@
       <p class="copyright text-muted">
       {% if site.author %}
         {{ site.author }}
+      {% if site.email %}
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      {% endif %}
         &nbsp;&bull;&nbsp;
       {% endif %}
       {{ site.time | date: '%Y' }}
