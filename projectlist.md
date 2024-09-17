@@ -44,41 +44,40 @@ title: Project list
 2. Purify proteins using gravity columns and size-exclusion chromatography (SEC).
 3. Employ Cryo-EM to elucidate the structure of the tetramer."
 
-#### Challenges & Solutions: 
-1. Hard to find a proper buffer condition for Alpha LISA to decrease the disruption from non-specific interactions.
-* Try different combination of distinct salt concentration and different DNA used.
-2. Hard to get both the high purity while a high yield of purified proteins.
-* Try different concentration of imidazoles & use multiple tags & different techniques to purify the proteins.
+#### Challenges & Solutions:
+1. It is difficult to obtain four subunits in the correct proportion to form a well-functioning complex.
+* Still working to resolve this issue.
 
 #### Key Accomplishments:
-1. Make two impirtant mutant constructs with high yield and relatively high purity.
-
-#### Noteworthy qualities displayed:
-1. Reasonable Experiment Scheduling: I possess a comprehensive understanding of the entire workflow, which allows me to create and maintain a logical and efficient schedule for experiments. This foresight ensures that all project milestones are met in a timely manner without compromising the quality of research.
+1. Honed my operational skills to a high degree of proficiency.
+2. Identified possible explanations for the challenges encountered, suggesting and implementing feasible strategies to resolve these issues and confirming their underlying causes.
+   
+#### Noteworthy Qualities Displayed:
+1. Reasonable Experiment Scheduling: I possess a comprehensive understanding of the entire workflow, which allows me to create and maintain a logical and efficient schedule for experiments. 
 2. Extensive Literature Review: I have read a significant number of papers related to the project, which has equipped me with a deeper understanding of the subject matter and the ability to effectively troubleshoot any issues that arise. This proactive approach not only strengthens my knowledge base but also contributes to the overall efficiency and success of the project.
 
 <div style="height: 1em;"></div>
 <hr>
 
-### **3. Construction of engineered E. coli that can degrade straw**
+### **3. Construction of Engineered E. Coli Capable of Degrading Straw in an Environmentally Friendly Manner**
 
 **Project Lead ---IMU, Mo lab**
 **March 2023-Present**
 
 #### Main Purpose: 
-To construct a series of microorganisms capable of degrading straw in an environmentally friendly manner, we designed a plan to clone the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi. Our goal is to transfer these genes into ΔmrdA-Escherichia coli, which has strong cell wall permeability. We aim to improve conditions for the high-level expression and extracellular secretion of target proteins in the engineered E. coli.
+To construct a series of microorganisms , we designed a plan to clone the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi. Our goal is to transfer these genes into ΔmrdA-Escherichia coli, which has strong cell wall permeability. We aim to improve conditions for the high-level expression and extracellular secretion of target proteins in the engineered E. coli.
 
-#### Main experiments: 
-* Fungal RNA Extraction and Reverse Transcription to cDNA.
-* Acquire the target protein.
-* Purifiaction with gravity columns.
-* Determine the degree of straw degradation by the constructed microbial strains using Fourier-transform infrared spectroscopy (FTIR).
+#### Main Experimental Assignments:
+1. Extract fungal RNA and perform Reverse Transcription to cDNA.
+2. Acquire the target protein from the ΔmrdA-Escherichia coli strain.
+3. Purify the protein using gravity columns.
+4. Determine the degree of straw degradation by the constructed microbial strains using Fourier-transform infrared spectroscopy (FTIR).
 
-#### Challenges & Solutions: 
-1. Hard to extract the RNA with a desirable band showing on gels.
-* Try different culture with different composition to culture the fungi.
-2. Hard to get proteins released outside the walls.
-* Try knock out extra genes connected with the permeability of the walls.
+#### Challenges & Solutions:
+1. Difficulties in extracting RNA that yields a desirable band on gels. 
+* Experiment with different culture media compositions to optimize fungal growth.
+2. Difficulty in releasing proteins outside the cell walls. 
+* Attempt to knockout genes associated with cell wall permeability to enhance protein release.
 
 #### Key Accomplishments:
 1. Led a team of five people to complete the project defense and mid-term defense. Our work on this project earned us an award at the university level.
