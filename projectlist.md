@@ -14,23 +14,23 @@ title: Project list
 3. Test binding affinity with AlphaLISA & Anisotropy Fluorescence
 4. Test methylation activity.
 
-#### Challenges & Solutions: 
-1. Hard to find a proper buffer condition for Alpha LISA to decrease the disruption from non-specific interactions.
-* Try different combination of distinct salt concentration and different DNA used.
-2. Hard to get both the high purity while a high yield of purified proteins.
-* Try different concentration of imidazoles & use multiple tags & different techniques to purify the proteins.
+#### Challenges & Solutions:
+1. It is hard to find a proper buffer condition for AlphaLISA to decrease disruption from non-specific interactions.
+* Try different combinations of distinct salt concentrations and different DNA.
+2. It is hard to achieve both high purity and a high yield of purified proteins.
+* Try different concentrations of imidazole, use multiple tags, and different techniques to purify the proteins.
 
 #### Key Accomplishments:
-1. Make two impirtant mutant constructs with high yield and relatively high purity.
+1. Successfully created two significant mutant constructs, achieving both high yield and high purity.
+2. Identified optimal conditions for AlphaLISA assays.
 
-#### Auxilliary roles:
-1. Help another project with Cryo-EM to prepare the proteins and participate in the meetings.
+#### Auxiliary Roles:
+1. Assisted with a Cryo-EM project by preparing proteins and actively participating in team meetings.
 
-#### Noteworthy qualities displayed:
-1. Fast learner: I repeated every experiments by myself after shadowing the students in lab for only one time with successful outcomes, including purification, alphalisa, mutant construct building and methyltransferase.
-2. Hardworking: I always prioritize the experiments' flow to maximize the efficiency for a earlier release of the scientific truth.
-3. Communicative: Talk often with students in the lab to update and share pwespective and results concerning the projects.
-
+#### Noteworthy Qualities Displayed:
+1. Fast Learner: After observing students in the lab just once, I was able to independently repeat every experiment with successful outcomes, including purification, AlphaLISA, mutant construct building, and methyltransferase assays.
+2. Hardworking: I consistently prioritize the smooth flow of experiments to maximize efficiency and hasten the discovery of scientific truths.
+3. Communicative: I frequently engage in discussions with lab members to update and share perspectives and results related to our projects.
 <div style="height: 1em;"></div>
 <hr>
 
@@ -39,10 +39,10 @@ title: Project list
 **Project Co-Lead---IMU, Zhou lab**
 **March 2024-Present**
 
-#### Main experiments been done: 
-* Acquire the proteins (PCR, transformation, expression) with differnet vectors and distributions.
-* Proteins purification with gravity columns & SEC.
-* Use Cryo-EM to elucidate the structure of this tetramer.
+#### Main Experimental Assignments:
+1. Acquire the proteins through PCR, transformation, and expression, utilizing different vectors and distributions.
+2. Purify proteins using gravity columns and size-exclusion chromatography (SEC).
+3. Employ Cryo-EM to elucidate the structure of the tetramer."
 
 #### Challenges & Solutions: 
 1. Hard to find a proper buffer condition for Alpha LISA to decrease the disruption from non-specific interactions.
