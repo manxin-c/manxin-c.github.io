@@ -27,7 +27,7 @@ title: Research experience
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
       <strong style="font-size: 16px; line-height: 1;">Zhou Lab, Inner Mongolia University, Inner Mongolia, China</strong>
-      <p style="font-size: 16px; line-height: 1;">Co-Lead. March 2024 - Present</p>
+      <p style="font-size: 16px; line-height: 1;">Undergraduate student. March 2024 - Present</p>
       <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank"><u>Lecturer Zhou, Xiaoting</u></a></p>
     </div>
     <div>
@@ -49,7 +49,7 @@ title: Research experience
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
       <strong style="font-size: 16px; line-height: 1;">Mo Lab, Inner Mongolia University, Inner Mongolia, China</strong>
-      <p style="font-size: 16px; line-height: 1;">Lead. March 2023 - Present</p>
+      <p style="font-size: 16px; line-height: 1;">Undergraduate student. March 2023 - Present</p>
       <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1050/3124.htm" target="_blank"><u>Prof. Mo, Rigen</u></a></p>
     </div>
     <div>
