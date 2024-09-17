@@ -37,6 +37,7 @@ title: Project list
 ### **2. Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
 
 **Project Co-Lead---IMU, Zhou lab**
+
 **March 2024-Present**
 
 #### Main Experimental Assignments:
@@ -62,6 +63,7 @@ title: Project list
 ### **3. Construction of Engineered E. Coli Capable of Degrading Straw in an Environmentally Friendly Manner**
 
 **Project Lead ---IMU, Mo lab**
+
 **March 2023-Present**
 
 #### Main Experimental Assignments:
