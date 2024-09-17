@@ -8,11 +8,11 @@ title: Project list
 **Short-term scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
 **July 2024-Present**
 
-#### Main experiments been done: 
-* Make mutant constructs(PCR, transformation, expression)
-* Mutants purification with FPLC&SEC
-* Test binding affinity with Alpha LISA & Anisotropy Florescence
-* Test methyltransferase activity.
+#### Main experiments done:
+1. Make mutant constructs (PCR, transformation, expression)
+2. Purify mutants with FPLC & SEC
+3. Test binding affinity with AlphaLISA & Anisotropy Fluorescence
+4. Test methylation activity.
 
 #### Challenges & Solutions: 
 1. Hard to find a proper buffer condition for Alpha LISA to decrease the disruption from non-specific interactions.
