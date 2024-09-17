@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project list
-Posted on: 2024-09-17---
+date: 2024-09-17
 
 ### **1. Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
 
