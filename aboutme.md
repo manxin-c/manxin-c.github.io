@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-last-updated: 2024-09-17
+Posted on: 2024-09-17
 ---
 
 
