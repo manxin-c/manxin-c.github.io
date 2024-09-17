@@ -11,7 +11,7 @@ I have four research experiences, starting from the earliest to the most recent.
  <div style="flex: 0 1 100%; display: flex; align-items: center;">
   <div style="flex: 1;">
     <strong style="font-size: 17px; margin-bottom: 0;">Mo Lab, Inner Mongolia University, Inner Mongolia, China</strong>
-    <p style="font-size: 17px; margin: 0;">Lead. March 2023 - Present</p>
+    <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2023 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1050/3124.htm" target="_blank">Prof. Mo, Rigen</a></p>
   </div>
   <div>
@@ -43,7 +43,7 @@ I have four research experiences, starting from the earliest to the most recent.
     <strong style="font-size: 17px; margin-bottom: 0;">
       Zhou Lab, Inner Mongolia University, Inner Mongolia, China
     </strong>
-    <p style="font-size: 17px; margin: 0;">Co-Lead. March 2024 - Present</p>
+    <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2024 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
   </div>
   <div>
