@@ -7,7 +7,7 @@ date: 2024-09-17
 
 Here, I document my four research experiences, following the order from the most recent to the earliest, as a story about how these experiences contributed significantly to enhance my proficiency in conducting various experiments and help me discover my interests. Over time, I’ve developed a better understanding of how to approach research in a logical and effective way. Now, I feel more confident in designing my projects, making sure each step is well thought out and meaningful. These opportunities have not only taught me important lab techniques but also how to think like a scientist.
 
-<hr style="width: 90%; height: 2px; background-color: black; border: none;">
+<hr style="width: 80%; margin: 0 auto;">
 
  <div style="flex: 0 1 100%; display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -21,7 +21,7 @@ Here, I document my four research experiences, following the order from the most
 </div>
 <p style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first research experience at my undergraduate university in Professor Mo’s lab was when I truly worked on a real project, leading a group of four other students. However, a severe epidemic struck my city that year, causing us to lose nearly two semesters of lab work, and many of my experimental classes were moved online. To make matters worse, I found it difficult to balance an extremely hectic academic schedule—16 classes for a total of 33 credits—to make up for the postponed courses due to the epidemic. Thus, I knew very little about experiments when I first joined the lab. Despite this, I shadowed graduate students to learn some basic techniques and tried hard to spend more time in the lab. Also, I led my team to a successful project defense, and we won the second prize at the China International College Students Innovation Competition at the university level. Although my lab time was limited, I learned some basic techniques like running Agarose gels and SDS-PAGE gels, as well as PCR, but in a disjointed way, without fully understanding the complete experimental workflow. At the end of that semester, I was selected as an exchange student at Peking University, and I jumped at the chance. After returning from the exchange experience, I continued this project with my group, and we made steady progress, passing the mid-term defense.</p>
 
-<hr style="width: 90%; height: 2px; background-color: black; border: none;">
+<hr style="width: 80%; margin: 0 auto;">
 
 <div style="flex: 0 1 100%; display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -38,7 +38,7 @@ Here, I document my four research experiences, following the order from the most
 <p style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During my semester at Peking University, I took 15 credits and carefully selected a lab to join. At that time, I wasn’t sure what truly interested me in research. However, after attending a lecture by Professor Zihe Rao from Tsinghua University on structural biology, I was particularly impressed by his presentation on the dynamic conversion of SCARB2 in response to different pH conditions. The structures and animations that illustrated the dynamic conformational changes to interact with their substrate fascinated me. This fascination led me to join Professor Xiaodong Su’s lab, which specializes in structural biology. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For nearly four months, I shadowed a postgraduate student, learning the entire workflow from gene acquisition via PCR to protein purification through size-exclusion chromatography (SEC), as well as initial crystallization screening for X-ray crystallography. I shadowed several experiments but quickly progressed because I worked hard to record every word she said about the experiments, took exhaustive notes, and asked questions whenever I was confused. Meanwhile, the postgraduate student trusted me to work independently after minimal supervision. This hands-on experience significantly improved my experimental skills. In addition to basic experiments, I also observed techniques like SPR, X-ray crystallography, negative staining, and flow cytometry. This experience solidified my passion for structural biology and gave me a deeper understanding of how scientific research works. It was also during this time that I decided to study abroad, influenced by the teaching professors and students in Su’s lab, who shared valuable information about planning for graduate research and summer opportunities.</p>
 
-<hr style="width: 90%; height: 2px; background-color: black; border: none;">
+<hr style="width: 80%; margin: 0 auto;">
 
 <div style="flex: 0 1 100%; display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -56,7 +56,7 @@ Here, I document my four research experiences, following the order from the most
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project was more challenging than I anticipated, as I faced difficulties in achieving a high yield of proteins with the correct proportion of subunits needed to form a functional complex. I explored various strategies, such as truncating random coil regions and testing different vector combinations, but we did not immediately obtain the desired results.Nevertheless, this hands-on experience greatly honed my proficiency in operational techniques and enhanced my grasp of the experimental process and all the trivial details I had to pay attention to.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I remained committed to solving the problem and continued my efforts until I received my visa, which was an important step toward my next research journey.</p>
 
-<hr style="width: 90%; height: 2px; background-color: black; border: none;">
+<hr style="width: 80%; margin: 0 auto;">
 
  <div style="flex: 0 1 100%; display: flex; align-items: center;">
   <div style="flex: 1;">
