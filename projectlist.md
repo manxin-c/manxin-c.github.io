@@ -33,6 +33,7 @@ date: 2024-09-17
 2. Hardworking: I consistently prioritize the smooth flow of experiments to maximize efficiency and hasten the discovery of scientific truths.
 3. Communicative: I frequently engage in discussions with lab members to update and share perspectives and results related to our projects.
 <div style="height: 1em;"></div>
+
 <hr>
 
 ### **2. Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
@@ -59,6 +60,7 @@ date: 2024-09-17
 2. Extensive Literature Review: I have read a significant number of papers related to the project, which has equipped me with a deeper understanding of the subject matter and the ability to effectively troubleshoot any issues that arise. This proactive approach not only strengthens my knowledge base but also contributes to the overall efficiency and success of the project.
 
 <div style="height: 1em;"></div>
+
 <hr>
 
 ### **3. Construction of Engineered E. Coli Capable of Degrading Straw in an Environmentally Friendly Manner**
