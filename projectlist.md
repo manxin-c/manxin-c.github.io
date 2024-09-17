@@ -34,7 +34,7 @@ date: 2024-09-17
 3. Communicative: I frequently engage in discussions with lab members to update and share perspectives and results related to our projects.
 <div style="height: 1em;"></div>
 
-<hr>
+<hr style="width: 90%; height: 2px; background-color: black; border: none;">
 
 ### **2. Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
 
@@ -61,7 +61,7 @@ date: 2024-09-17
 
 <div style="height: 1em;"></div>
 
-<hr>
+<hr style="width: 90%; height: 2px; background-color: black; border: none;">
 
 ### **3. Construction of Engineered E. Coli Capable of Degrading Straw in an Environmentally Friendly Manner**
 
