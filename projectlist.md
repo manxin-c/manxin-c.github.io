@@ -64,9 +64,6 @@ title: Project list
 **Project Lead ---IMU, Mo lab**
 **March 2023-Present**
 
-#### Main Purpose: 
-To construct a series of microorganisms , we designed a plan to clone the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi. Our goal is to transfer these genes into ΔmrdA-Escherichia coli, which has strong cell wall permeability. We aim to improve conditions for the high-level expression and extracellular secretion of target proteins in the engineered E. coli.
-
 #### Main Experimental Assignments:
 1. Extract fungal RNA and perform Reverse Transcription to cDNA.
 2. Acquire the target protein from the ΔmrdA-Escherichia coli strain.
@@ -82,6 +79,6 @@ To construct a series of microorganisms , we designed a plan to clone the cellul
 #### Key Accomplishments:
 1. Led a team of five people to complete the project defense and mid-term defense. Our work on this project earned us an award at the university level.
 
-#### Noteworthy qualities displayed:
-1. Leardership: I reasonably assign work to my group members and effectively coordinate our efforts to achieve project goals.
-2. Initiative: I am eager to learn and proactively seek out information to contribute to the project. This is my first time engaging with a scientific project, and I am committed to honing my skills and mastering the daily experimental procedures.
+#### Noteworthy Qualities Displayed:
+1. Leadership: I assign tasks to my group members in a logical manner and effectively coordinate our collective efforts to achieve project objectives.
+2. Initiative: With a strong desire to learn, I actively seek out information to benefit the project. As this is my inaugural engagement with a scientific project, I am dedicated to refining my skills and becoming proficient in daily experimental protocols.
