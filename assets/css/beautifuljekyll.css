@@ -2,6 +2,9 @@
 layout: null
 ---
 
+.post-meta {
+  display: none;
+}
 @import url("pygment_highlights.css");
 
 :root {
