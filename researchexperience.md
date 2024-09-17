@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research experience
- : 2024-09-17
+date: 2024-09-17
 ---
 
 
