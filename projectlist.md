@@ -21,16 +21,16 @@ date: 2024-09-17
 * Tried various imidazole concentrations, increased the washing buffer volume, and utilized both His and Flag tags for protein purification.
 
 #### Key Accomplishments:
-1. Successfully created two significant mutant constructs, achieving both high yield and high purity.
-2. Identified optimal conditions for AlphaLISA assays.
+1. Successfully created two significant mutant constructs, achieving both high yield and relatively high purity.
+2. Identified optimal buffer conditions for AlphaLISA assays, achieving an ideal curve that confirmed our expectations based on previous papers.
 
 #### Auxiliary Roles:
-1. Assisted with a Cryo-EM project by preparing proteins and actively participating in team meetings.
+1. Assisted with a Cryo-EM project about CcrM by preparing proteins and actively participating in discussions.
 
 #### Noteworthy Qualities Displayed:
-1. Fast Learner: After observing students in the lab just once, I was able to independently repeat every experiment with successful outcomes, including purification, AlphaLISA, mutant construct building, and methyltransferase assays.
-2. Hardworking: I consistently prioritize the smooth flow of experiments to maximize efficiency and hasten the discovery of scientific truths.
-3. Communicative: I frequently engage in discussions with lab members to update and share perspectives and results related to our projects.
+1. Fast Learner: I was capable of independently reproducing comparable results for every experiment after shadowing only once, including mutant construct building, purification, AlphaLISA, and Fluorescence Anisotropy.
+2. Hardworking: I am very proactive in conducting experiments, consistently prioritizing them to enhance efficiency and accelerate the troubleshooting process.
+3. Communicative: I frequently engage in discussions with lab members to update and share perspectives and results related to this projects.
 <div style="height: 1em;"></div>
 
 <hr style="width: 90%; height: 2px; background-color: black; border: none;">
