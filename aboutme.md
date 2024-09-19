@@ -53,4 +53,5 @@ Structural Biology, Histone Modification, Histone Chaperone.
 * **Observed Techniques:** SPR, Flow Cytometry, Negative Staining, X-ray Crystallography, Cryo-EM<br>
 * **Computational:** Python(basic), R (basic)<br>
 * **Language:** Native in Mandarin Chinese, Proficient in English (TOEFL: 100), Intermediate in French<br>
-   * TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)**[Click here to see my TOEFL Score Report](/assets/Score Report.pdf)**
+   * TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)<br>
+   **[Click here to see my TOEFL Score Report](/assets/Score Report.pdf)**
