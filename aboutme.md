@@ -10,13 +10,11 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 ## Research Interests
 
 #### **Histone Modifications:**
-Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation.
-
+- Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation.
 #### **Histone Assembly:**
-Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
-
+- Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
 #### **Key Words:**
-Structural Biology, Histone Modification, Histone Chaperone.
+- Structural Biology, Histone Modification, Histone Chaperone.
 
 ## Academic Achievements
 
