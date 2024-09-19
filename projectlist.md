@@ -38,7 +38,7 @@ July 2024-Present
 
 <hr style="width: 90%; height: 2px; background-color: black; border: none;">
 
-#### **2. Structural Insights into Brucella abortus Succinate Dehydrogenase for Combating Brucellosis.**
+<h1 style="font-size: 22px;">2. Structural Insights into Brucella abortus Succinate Dehydrogenase for Combating Brucellosis.</h1>
 
 **Project Co-Lead---IMU, Zhou lab**<br>
 **March 2024-Present**
@@ -67,7 +67,7 @@ July 2024-Present
 
 <hr style="width: 90%; height: 2px; background-color: black; border: none;">
 
-#### **3. Construction of Engineering E. coli for Sustainable Straw Biodegradation**
+<h1 style="font-size: 22px;">3. Construction of Engineering E. coli for Sustainable Straw Biodegradation</h1>
 
 **Project Lead ---IMU, Mo lab**<br>
 **March 2023-Present**
