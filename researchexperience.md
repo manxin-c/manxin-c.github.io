@@ -24,7 +24,7 @@ date: 2024-09-17
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Despite these challenges, I shadowed graduate students to learn basic techniques and tried to spend as much time in the lab as possible. I led my team to a successful project defense, and we won second prize at the university level of the China International College Students Innovation Competition. Additionally, I gained hands-on experience with techniques like running agarose gels and SDS-PAGE gels, and PCR. However, I learned these techniques in a scattered way and didn’t fully understand the complete experimental workflow.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the end of that semester, I was selected as an exchange student to Peking University. After returning from that experience, I continued working on the project with my group, and we made steady progress, successfully passing the mid-term defense.</p>
 
-<hr style="width: 80%; margin: 0 auto;"><br>
+<hr style="width: 80%; margin: 0 auto;">
 
 <div style="flex: 0 1 100%; display: flex; align-items: center;">
   <div style="flex: 1;">
