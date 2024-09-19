@@ -15,10 +15,10 @@ date: 2024-09-17
 3. Working on constructing a truncated version of DNMT3A, devoid of a specific domain, to produce more reliable proteins for use in AlphaLISA binding assays.
 
 #### Challenges & Solutions:
-1. It is hard to find a proper buffer condition for AlphaLISA to decrease disruption from non-specific interactions.
-* Tried different combinations of distinct salt concentrations and different DNA.
-2. It is hard to achieve both high purity and a high yield of purified proteins.
-* Tried different concentrations of imidazole, use multiple tags, and different techniques to purify the proteins.
+1. Hard to find a proper buffer condition for AlphaLISA to prevent signals from non-specific bindings.
+* Tried different combinations of distinct salt concentrations and various DNA types, which can help stabilize the proteins.
+2. Excessive truncated contaminations are observed on the SDS-PAGE gel following FPLC and SEC, resulting in low purity.
+* Tried various imidazole concentrations, increased the washing buffer volume, and utilized both His and Flag tags for protein purification.
 
 #### Key Accomplishments:
 1. Successfully created two significant mutant constructs, achieving both high yield and high purity.
