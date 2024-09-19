@@ -9,7 +9,7 @@ Summer Research Scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)
 July 2024-Present
 
 #### Project Overview:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DNA methyltransferase 3A (DNMT3A) interacts with histone modifications, playing a key role in gene regulation and contributing to the development of cancers and other diseases. However, the exact locations where some histone modifications bind to DNMT3A are still unknown.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DNA methyltransferase 3A (DNMT3A) interacts with histone modifications, playing a key role in gene regulation and contributing to the development of cancers and other diseases. However, the exact locations where some histone modifications bind to DNMT3A are still unknown.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This study focuses on identifying the precise binding sites of histone modifications on DNMT3A using AlphaLISA. By understanding where these interactions occur, we can better comprehend how they influence disease progression. This knowledge will help in designing inhibitors to disrupt these interactions, which could lead to new treatments for diseases linked to DNMT3A-histone interactions, particularly cancers. Through structural and biochemical methods, this research aims to support the development of targeted therapies that address these crucial molecular interactions.
 
 #### Experimental Work Summary:
@@ -44,7 +44,7 @@ Project Co-Lead---IMU, Zhou lab<br>
 March 2024-Present
 
 #### Project Overview:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brucellosis, a zoonotic infectious disease, occurs frequently in Inner Mongolia, China, posing a significant public health concern. Current treatments for brucellosis are not sufficiently effective, and drug resistance has become an increasing issue. One promising target for therapeutic intervention is succinate dehydrogenase (SDH), a vital protein in Brucella abortus, a major causative agent of brucellosis. Notably, the SDH sequence in Brucella abortus differs significantly from its human counterpart, making it a viable target for selective inhibition. This study aims to elucidate the structure of Brucella abortus SDH in order to facilitate the design of specific inhibitors that can effectively combat brucellosis. By leveraging structural biology techniques, this research seeks to provide valuable insights into the development of new, efficient treatments for brucellosis, ultimately contributing to public health efforts in endemic regions like Inner Mongolia.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brucellosis, a zoonotic infectious disease, occurs frequently in Inner Mongolia, China, posing a significant public health concern. Current treatments for brucellosis are not sufficiently effective, and drug resistance has become an increasing issue. One promising target for therapeutic intervention is succinate dehydrogenase (SDH), a vital protein in Brucella abortus, a major causative agent of brucellosis. Notably, the SDH sequence in Brucella abortus differs significantly from its human counterpart, making it a viable target for selective inhibition. This study aims to elucidate the structure of Brucella abortus SDH in order to facilitate the design of specific inhibitors that can effectively combat brucellosis. By leveraging structural biology techniques, this research seeks to provide valuable insights into the development of new, efficient treatments for brucellosis, ultimately contributing to public health efforts in endemic regions like Inner Mongolia.
 
 #### Experimental Work Summary:
 1. Optimized the expression and purification processes of succinate dehydrogenase to ensure proportional expression of all four subunits, resulting in a well-structured and functional tetramer.
@@ -73,7 +73,7 @@ Project Lead ---IMU, Mo lab<br>
 March 2023-Present
 
 #### Project Overview:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In environmental science and sustainable agriculture, managing agricultural waste like straw is a growing concern. Despite producing over 734 million tons of straw annually, much of it is underused and improperly disposed of, causing pollution. Biotechnology offers potential solutions, but there is still a lack of understanding about how to efficiently break down the complex structure of straw.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In environmental science and sustainable agriculture, managing agricultural waste like straw is a growing concern. Despite producing over 734 million tons of straw annually, much of it is underused and improperly disposed of, causing pollution. Biotechnology offers potential solutions, but there is still a lack of understanding about how to efficiently break down the complex structure of straw.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This study aims to address that gap by exploring how engineered E. coli can be used to degrade straw. The goal is to develop a system where E. coli secretes enzymes to break down straw, making it more useful and reducing its environmental impact. The research could provide a sustainable way to manage straw waste and create valuable livestock feed, supporting a more circular agricultural economy.
 
 #### Experimental Work Summary:
