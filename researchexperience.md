@@ -34,7 +34,7 @@ date: 2024-09-17
     <p style="font-size: 17px; margin: 0;">Exchange Student Researcher. September 2023 - January 2024</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html" target="_blank">Prof. Su, Xiaodong</a></p>
     <p style="font-size: 15px; margin: 0;"><strong>New Experiments Learned:</strong> Transformation, Expression, Purification with Nickel Affinity Gravity Column Chromatography and Size Exclusion Chromatography, Preliminary Screening for X-ray Crystallization Conditions.</p>
-    <p style="font-size: 15px; margin: 0;"><strong>New Techniques Observed:</strong> SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
+    <p style="font-size: 15px; margin: 0;"><strong>New Techniques Observed:</strong> Transfection, SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
   </div>
   <div>
     <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
