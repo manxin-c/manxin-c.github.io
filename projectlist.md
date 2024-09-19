@@ -10,7 +10,7 @@ July 2024-Present
 
 #### Project Overview:<br>
 <div class="indent"></div>
-<p>DNA methyltransferase 3A (DNMT3A) interacts with histone modifications, playing a key role in gene regulation and contributing to the development of cancers and other diseases. However, the exact locations where some histone modifications bind to DNMT3A are still unknown.<\p>
+<p>DNA methyltransferase 3A (DNMT3A) interacts with histone modifications, playing a key role in gene regulation and contributing to the development of cancers and other diseases. However, the exact locations where some histone modifications bind to DNMT3A are still unknown.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This study focuses on identifying the precise binding sites of histone modifications on DNMT3A using AlphaLISA. By understanding where these interactions occur, we can better comprehend how they influence disease progression. This knowledge will help in designing inhibitors to disrupt these interactions, which could lead to new treatments for diseases linked to DNMT3A-histone interactions, particularly cancers. Through structural and biochemical methods, this research aims to support the development of targeted therapies that address these crucial molecular interactions.
 
 #### Experimental Work Summary:
