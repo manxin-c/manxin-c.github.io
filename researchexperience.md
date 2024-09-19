@@ -31,7 +31,7 @@ Here, I document my four research experiences, following the order from the most
     <strong style="font-size: 17px; margin-bottom: 0;">
       <a href="https://www.bio.pku.edu.cn/homes/Index/news_cont_jl/17/63.html" target="_blank" style="font-size: 17px; color: inherit; text-decoration: none;">Su Lab</a>, Peking University, Peking, China
     </strong>
-    <p style="font-size: 17px; margin: 0;">Exchange Student. September 2023 - January 2024</p>
+    <p style="font-size: 17px; margin: 0;">Exchange Student Researcher. September 2023 - January 2024</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html" target="_blank">Prof. Su, Xiaodong</a></p>
     <p style="font-size: 17px; margin: 0;">Experiments learned: Transformation, Expression, Purification with Nickel Affinity Gravity Column Chromatography and Size Exclusion Chromatography, Preliminary Screening for X-ray Crystallization Conditions.</p>
     <p style="font-size: 17px; margin: 0;">Observed Techniques: SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
@@ -70,7 +70,7 @@ Here, I document my four research experiences, following the order from the most
     <strong style="font-size: 17px; margin-bottom: 0;">
       <a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 17px;">Reich Lab</a>, UCSB, Santa Barbara, CA
     </strong>
-    <p style="font-size: 17px; margin: 0;">Short-term Scholar. July 2024 - Present</p>
+    <p style="font-size: 17px; margin: 0;">Summer Research Scholar. July 2024 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;">Prof. Norbert Reich</a></p>
     <p style="font-size: 17px; margin: 0;">Techniques learned: FPLC, Radioactivity Assay, Fluorescence Anisotropy</p>
   </div>
