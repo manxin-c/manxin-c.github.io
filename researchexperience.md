@@ -14,7 +14,7 @@ Here, I document my four research experiences, following the order from the most
     <strong style="font-size: 17px; margin-bottom: 0;">Mo Lab, Inner Mongolia University, Inner Mongolia, China</strong>
     <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2023 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1050/3124.htm" target="_blank">Prof. Mo, Rigen</a></p>
-    <p style="font-size: 17px; margin: 0;">Techniques learned: PCR, SDS-PAGE, and Agarose Gel Electrophoresis.</p>
+    <p style="font-size: 15px; margin: 0;">Techniques learned: PCR, SDS-PAGE, and Agarose Gel Electrophoresis.</p>
   </div>
   <div>
     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
@@ -34,7 +34,7 @@ Here, I document my four research experiences, following the order from the most
     <p style="font-size: 17px; margin: 0;">Exchange Student Researcher. September 2023 - January 2024</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html" target="_blank">Prof. Su, Xiaodong</a></p>
     <p style="font-size: 17px; margin: 0;">Experiments learned: Transformation, Expression, Purification with Nickel Affinity Gravity Column Chromatography and Size Exclusion Chromatography, Preliminary Screening for X-ray Crystallization Conditions.</p>
-    <p style="font-size: 17px; margin: 0;">Observed Techniques: SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
+    <p style="font-size: 15px; margin: 0;">Observed Techniques: SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
   </div>
   <div>
     <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
@@ -53,7 +53,7 @@ Here, I document my four research experiences, following the order from the most
     </strong>
     <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2024 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
-    <p style="font-size: 17px; margin: 0;">Techniques learned: Western Blotting</p>
+    <p style="font-size: 15px; margin: 0;">Techniques learned: Western Blotting</p>
   </div>
   <div>
     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
@@ -72,7 +72,7 @@ Here, I document my four research experiences, following the order from the most
     </strong>
     <p style="font-size: 17px; margin: 0;">Summer Research Scholar. July 2024 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;">Prof. Norbert Reich</a></p>
-    <p style="font-size: 17px; margin: 0;">Techniques learned: FPLC, Radioactivity Assay, Fluorescence Anisotropy</p>
+    <p style="font-size: 15px; margin: 0;">Techniques learned: FPLC, Radioactivity Assay, Fluorescence Anisotropy</p>
   </div>
   <div>
     <img src="/assets/img/UCSB.png" alt="UCSB" style="height: 100px;">
