@@ -6,20 +6,19 @@ date: 2024-09-17
 
 ### **1. Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites.**
 
-**Short-term scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
+**Summer Research Scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
 **July 2024-Present**
 
 #### Main experiments done:
-1. Make mutant constructs (PCR, transformation, expression)
-2. Purify mutants with FPLC & SEC
-3. Test binding affinity with AlphaLISA & Anisotropy Fluorescence
-4. Test methylation activity.
+1. Constructed and purified DNMT3A mutants across various domains using fast protein liquid chromatography (FPLC) with nickle column and size exclusion chromatography (SEC), achieving a high yield and purity of mutant stocks.
+2. Performed AlphaLISA binding assays and Fluorescence anisotropy with DNMT3A mutants, systematically refining buffer conditions to minimize signals arising from non-specific binding.
+3. Working on constructing a truncated version of DNMT3A, devoid of a specific domain, to produce more reliable proteins for use in AlphaLISA binding assays.
 
 #### Challenges & Solutions:
 1. It is hard to find a proper buffer condition for AlphaLISA to decrease disruption from non-specific interactions.
-* Try different combinations of distinct salt concentrations and different DNA.
+* Tried different combinations of distinct salt concentrations and different DNA.
 2. It is hard to achieve both high purity and a high yield of purified proteins.
-* Try different concentrations of imidazole, use multiple tags, and different techniques to purify the proteins.
+* Tried different concentrations of imidazole, use multiple tags, and different techniques to purify the proteins.
 
 #### Key Accomplishments:
 1. Successfully created two significant mutant constructs, achieving both high yield and high purity.
