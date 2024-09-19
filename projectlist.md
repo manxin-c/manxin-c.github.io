@@ -67,8 +67,8 @@ date: 2024-09-17
 **March 2023-Present**
 
 #### Project Overview:
-   In environmental science and sustainable agriculture, managing agricultural waste like straw is a growing concern. Despite producing over 734 million tons of straw annually, much of it is underused and improperly disposed of, causing pollution. Biotechnology offers potential solutions, but there is still a lack of understanding about how to efficiently break down the complex structure of straw.<br>
-   This study aims to address that gap by exploring how engineered E. coli can be used to degrade straw. The goal is to develop a system where E. coli secretes enzymes to break down straw, making it more useful and reducing its environmental impact. The research could provide a sustainable way to manage straw waste and create valuable livestock feed, supporting a more circular agricultural economy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In environmental science and sustainable agriculture, managing agricultural waste like straw is a growing concern. Despite producing over 734 million tons of straw annually, much of it is underused and improperly disposed of, causing pollution. Biotechnology offers potential solutions, but there is still a lack of understanding about how to efficiently break down the complex structure of straw.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This study aims to address that gap by exploring how engineered E. coli can be used to degrade straw. The goal is to develop a system where E. coli secretes enzymes to break down straw, making it more useful and reducing its environmental impact. The research could provide a sustainable way to manage straw waste and create valuable livestock feed, supporting a more circular agricultural economy.
 
 #### Experimental Work Summary:
 1. Cloned the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi and transfered them into ΔmrdA-Escherichia coli, which has strong cell wall permeability.
