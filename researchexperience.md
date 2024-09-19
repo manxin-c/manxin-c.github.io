@@ -5,7 +5,7 @@ date: 2024-09-17
 ---
 
 
-<p style="font-size: 18px; margin: 0;">Here, I document my four research experiences, following the order from the most recent to the earliest, as a story about how these experiences contributed significantly to enhance my proficiency in conducting various experiments and help me discover my interests. Over time, I’ve developed a better understanding of how to approach research in a logical and effective way. Now, I feel more confident in designing my projects, making sure each step is well thought out and meaningful. These opportunities have not only taught me important lab techniques but also how to think like a scientist.</p>
+<p style="font-size: 16px; margin: 0;">Here, I document my four research experiences, following the order from the most recent to the earliest, as a story about how these experiences contributed significantly to enhance my proficiency in conducting various experiments and help me discover my interests. Over time, I’ve developed a better understanding of how to approach research in a logical and effective way. Now, I feel more confident in designing my projects, making sure each step is well thought out and meaningful. These opportunities have not only taught me important lab techniques but also how to think like a scientist.</p><br>
 
 <hr style="width: 80%; margin: 0 auto;">
 
