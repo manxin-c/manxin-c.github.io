@@ -34,7 +34,7 @@ Here, I document my four research experiences, following the order from the most
     <p style="font-size: 17px; margin: 0;">Exchange Student Researcher. September 2023 - January 2024</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://www.bio.pku.edu.cn/enhomes/news/teacher_dis/63.html" target="_blank">Prof. Su, Xiaodong</a></p>
     <p style="font-size: 15px; margin: 0;"><strong>New Experiments Learned:</strong> Transformation, Expression, Purification with Nickel Affinity Gravity Column Chromatography and Size Exclusion Chromatography, Preliminary Screening for X-ray Crystallization Conditions.</p>
-    <p style="font-size: 15px; margin: 0;"><strong>New Observed Techniques:</strong> SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
+    <p style="font-size: 15px; margin: 0;"><strong>New Techniques Observed:</strong> SPR, Flow Cytometry, Negative Staining, X-ray Crystallography</p>
   </div>
   <div>
     <img src="/assets/img/PKU.png" alt="PKU" style="height: 100px;">
@@ -54,7 +54,7 @@ Here, I document my four research experiences, following the order from the most
     <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2024 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
     <p style="font-size: 15px; margin: 0;"><strong>New Techniques Learned:</strong> Western Blotting</p>
-    <p style="font-size: 15px; margin: 0;"><strong>New Observed Techniques:</strong> Cryo-EM</p>
+    <p style="font-size: 15px; margin: 0;"><strong>New Techniques Observed:</strong> Cryo-EM</p>
   </div>
   <div>
     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
