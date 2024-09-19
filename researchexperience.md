@@ -54,6 +54,7 @@ Here, I document my four research experiences, following the order from the most
     <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2024 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Prof. Zhou, Xiaoting</a></p>
     <p style="font-size: 15px; margin: 0;">Techniques learned: Western Blotting</p>
+    <p style="font-size: 15px; margin: 0;">Observed Techniques: Cryo-EM</p>
   </div>
   <div>
     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
