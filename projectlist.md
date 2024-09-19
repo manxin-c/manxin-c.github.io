@@ -4,7 +4,7 @@ title: Project list
 date: 2024-09-17
 ---
 
-<h1 style="font-size: 24px;"><strong>Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites</strong></h1>
+<h1 style="font-size: 24px;">Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites</h1>
 **Summer Research Scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)**                            
 **July 2024-Present**
 
