@@ -35,7 +35,7 @@ date: 2024-09-17
 
 <hr style="width: 90%; height: 2px; background-color: black; border: none;">
 
-### **2. Elucidation of Succinate Dehydrogenase in Brucella Abortus for Designing Inhibitors against Brullosis.**
+### **2. Structural Insights into Brucella abortus Succinate Dehydrogenase for Combating Brucellosis.**
 
 **Project Co-Lead---IMU, Zhou lab**<br>
 **March 2024-Present**
@@ -61,10 +61,14 @@ date: 2024-09-17
 
 <hr style="width: 90%; height: 2px; background-color: black; border: none;">
 
-### **3. Construction of Engineered E. Coli Capable of Degrading Straw in an Environmentally Friendly Manner**
+### **3. Construction of Engineering E. coli for Sustainable Straw Biodegradation**
 
 **Project Lead ---IMU, Mo lab**<br>
 **March 2023-Present**
+
+#### Project Overview:
+   In environmental science and sustainable agriculture, managing agricultural waste like straw is a growing concern. Despite producing over 734 million tons of straw annually, much of it is underused and improperly disposed of, causing pollution. Biotechnology offers potential solutions, but there is still a lack of understanding about how to efficiently break down the complex structure of straw.<br>
+   This study aims to address that gap by exploring how engineered E. coli can be used to degrade straw. The goal is to develop a system where E. coli secretes enzymes to break down straw, making it more useful and reducing its environmental impact. The research could provide a sustainable way to manage straw waste and create valuable livestock feed, supporting a more circular agricultural economy.
 
 #### Experimental Work Summary:
 1. Cloned the cellulase gene, manganese peroxidase gene, lignin peroxidase gene, and laccase gene from Trichoderma reesei and white rot fungi and transfered them into ΔmrdA-Escherichia coli, which has strong cell wall permeability.
