@@ -16,7 +16,7 @@ title: Research experience
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
       <strong style="font-size: 16px; line-height: 1;"><a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 17px;"><u>Reich Lab</u></a>, UCSB, Santa Barbara, CA</strong>
-      <p style="font-size: 16px; line-height: 1;">Short-term Scholar. July 2024 - Present</p>
+      <p style="font-size: 16px; line-height: 1;">Summer Research Scholar. July 2024 - Present</p>
       <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;"><u>Prof. Norbert Reich</u></a></p> 
     </div>
     <div>
