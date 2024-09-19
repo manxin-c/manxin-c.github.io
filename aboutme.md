@@ -47,17 +47,11 @@ Structural Biology, Histone Modification, Histone Chaperone.
   - Merit Student - May 2023 & April 2024
   - Model Student Scholarship - May 2024 
 
-## Skills and Interests
-
-#### **Skills:**
-- **Computer:** Microsoft Office (PowerPoint, Word, Excel), R (basic)
-- **Language:**
-  - CET4: 606
-  - CET6: 582
-  - TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)<br>
+## Skills
+-**Molecular Biology & Biochemistry:** PCR, Agarose Gel Electrophoresis, SDS-PAGE, Nickel Affinity Gravity Column Chromatography, Flag-tag Protein Purification, FPLC, Size Exclusion Chromatography, Western Blotting, AlphaLISA Assay, Radioactivity Assay, Fluorescence Anisotropy<br>
+-**Structural Biology:** Preliminary Screening for X-ray Crystallization Conditions<br>
+-**Observed Techniques:** SPR, Flow Cytometry, Negative Staining, X-ray Crystallography, Cryo-EM<br>
+-**Computational:** Python(basic), R (basic)<br>
+-**Language:** Native in Mandarin Chinese, Proficient in English (TOEFL: 100), Intermediate in French<br>
+- TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)<br>
     **[Click here to see my TOEFL Score Report](/assets/Score Report.pdf)**
-
-#### **Interests:**
-- Skiing
-- Hip-Hop
-- Travel
