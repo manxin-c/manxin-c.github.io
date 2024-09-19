@@ -5,7 +5,8 @@ date: 2024-09-17
 ---
 
 <h1 style="font-size: 22px;">1. Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites</h1>
-Summer Research Scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)                    
+
+Summer Research Scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)<br>                
 July 2024-Present
 
 #### Project Overview: 
