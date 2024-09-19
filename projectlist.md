@@ -43,7 +43,7 @@ July 2024-Present
 **Project Co-Lead---IMU, Zhou lab**<br>
 **March 2024-Present**
 
-#### Project Overview:
+#### Project Overview:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brucellosis, a zoonotic infectious disease, occurs frequently in Inner Mongolia, China, posing a significant public health concern. Current treatments for brucellosis are not sufficiently effective, and drug resistance has become an increasing issue. One promising target for therapeutic intervention is succinate dehydrogenase (SDH), a vital protein in Brucella abortus, a major causative agent of brucellosis. Notably, the SDH sequence in Brucella abortus differs significantly from its human counterpart, making it a viable target for selective inhibition. This study aims to elucidate the structure of Brucella abortus SDH in order to facilitate the design of specific inhibitors that can effectively combat brucellosis. By leveraging structural biology techniques, this research seeks to provide valuable insights into the development of new, efficient treatments for brucellosis, ultimately contributing to public health efforts in endemic regions like Inner Mongolia.
 
 #### Experimental Work Summary:
@@ -72,7 +72,7 @@ July 2024-Present
 **Project Lead ---IMU, Mo lab**<br>
 **March 2023-Present**
 
-#### Project Overview:
+#### Project Overview:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In environmental science and sustainable agriculture, managing agricultural waste like straw is a growing concern. Despite producing over 734 million tons of straw annually, much of it is underused and improperly disposed of, causing pollution. Biotechnology offers potential solutions, but there is still a lack of understanding about how to efficiently break down the complex structure of straw.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This study aims to address that gap by exploring how engineered E. coli can be used to degrade straw. The goal is to develop a system where E. coli secretes enzymes to break down straw, making it more useful and reducing its environmental impact. The research could provide a sustainable way to manage straw waste and create valuable livestock feed, supporting a more circular agricultural economy.
 
