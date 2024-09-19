@@ -14,6 +14,7 @@ Here, I document my four research experiences, following the order from the most
     <strong style="font-size: 17px; margin-bottom: 0;">Mo Lab, Inner Mongolia University, Inner Mongolia, China</strong>
     <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2023 - Present</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1050/3124.htm" target="_blank">Prof. Mo, Rigen</a></p>
+    <p style="font-size: 17px; margin: 0;">Technique learned: PCR, SDS-PAGE, Agarose Gel Electrophoresis</p>
   </div>
   <div>
     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
