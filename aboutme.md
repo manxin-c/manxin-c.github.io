@@ -26,7 +26,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 #### **GPA & Ranking & Highlight Grades**
 
 - **GPA:** 3.87/4
-- **Ranking:** 1/80 (Top 1.25%)
+- **Ranking:** 1/81 (Top 1.2%)
 - **Average Scores:** 90.6
 - **Core Courses:**
   - Cell Biology: 93
