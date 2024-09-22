@@ -13,9 +13,9 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 
 - Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation.
   
-#### **Histone Assembly:**
+#### **Nucleosome Assembly:**
 
-- Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
+- Exploring the mechanisms underlying the assembly of the nucleosome octamer with specific chaperones.
   
 #### **Key Words:**
 
