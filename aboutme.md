@@ -4,7 +4,7 @@ title: About me
 date: 2024-09-17
 ---
  
-I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focus on histones and nucleosomes. [**Here is my CV**](assets/CV.pdf) 
+I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focus on histones and nucleosomes. [**My CV**](assets/CV.pdf) 
 
 ## Research Interests
 
@@ -39,7 +39,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   - Advanced Mathematics B1: 93
   - Advanced Mathematics B2: 91
   - Enzyme Engineering: 92
-- **[Click here to see my transcript](/assets/Transcript.pdf)**
+- **[My transcript](/assets/Transcript.pdf)**
 
 #### **Main Honors and Scholarships:**
 
@@ -56,4 +56,4 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 * **Computational:** Python(basic), R (basic)<br>
 * **Language:** Native in Mandarin Chinese, Proficient in English (TOEFL: 100), Intermediate in French<br>
    * TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)<br>
-   **[Click here to see my TOEFL Score Report](/assets/Score Report.pdf)**
+   **[My TOEFL Score Report](/assets/Score Report.pdf)**
