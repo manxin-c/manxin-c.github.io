@@ -5,7 +5,9 @@ comments: true
 date: 2024-09-11 22:57:47 -0700  # 您可以根据需要设置或更新这个日期
 ---
 
-<p style="font-size: 17px;">I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focuse on histones, particularly in following areas:</p>
+[**My CV**](assets/CV.pdf)
+
+<p style="font-size: 17px;">I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focuse on histones and nucleosomes, particularly in following areas:</p>
 
 <p style="font-size: 17px;"><strong>Histone Modifications:</strong> Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation.</p>
 
