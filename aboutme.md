@@ -4,17 +4,17 @@ title: About me
 date: 2024-09-17
 ---
  
-I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focus on histones and nucleosomes. 
+I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focus on histones modifications and nucleosomes. 
  
 ## Research Interests
 
 #### **Histone Modifications:**
 
-- Investigating how histone modifications regulate gene transcription and the roles of key enzymes, such as histone methyltransferases, in this regulation.
+- Investigating how histone modifications regulate gene expression and the role of key macromolecular complexes in this process.
   
 #### **Nucleosome Assembly:**
 
-- Exploring the mechanisms underlying the assembly of the octamer of histones with specific chaperones.
+- Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones.
   
 #### **Key Words:**
 
