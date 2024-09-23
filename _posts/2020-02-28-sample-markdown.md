@@ -5,7 +5,7 @@ comments: true
 date: 2024-09-11 22:57:47 -0700  # 您可以根据需要设置或更新这个日期
 ---
 
-[**Here is my CV**](assets/CV.pdf)
+[**Download CV**](assets/CV.pdf)
 
 <p style="font-size: 17px;">I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focuse on histones and nucleosomes, particularly in following areas:</p>
 
