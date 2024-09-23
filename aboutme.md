@@ -10,7 +10,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 
 #### **Histone Modifications:**
 
-- Investigating how histone modifications regulate gene expression and the role of key macromolecular complexes in this process.
+- Investigating how histone modifications regulate chromatin structure and gene expression and the role of key macromolecular complexes in this process.
   
 #### **Nucleosome Assembly:**
 
