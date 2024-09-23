@@ -14,7 +14,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   
 #### **Nucleosome Assembly:**
 
-- Exploring the mechanisms underlying the assembly of the nucleosome octamer with specific chaperones.
+- Exploring the mechanisms underlying the assembly of the octamer of histones with specific chaperones.
   
 #### **Key Words:**
 
