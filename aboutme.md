@@ -4,7 +4,8 @@ title: About me
 date: 2024-09-17
 ---
  
-**[My CV]**(assets/CV.pdf) [br]
+**[My CV]**(assets/CV.pdf) 
+
 I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University in China. My research interests mainly lie in structural biology, with a focus on histones and nucleosomes.
 
 ## Research Interests
