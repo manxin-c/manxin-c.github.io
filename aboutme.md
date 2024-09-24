@@ -55,5 +55,4 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 * **Observed Techniques:** SPR, Flow Cytometry, Negative Staining, X-ray Crystallography, Cryo-EM<br>
 * **Computational:** Python(basic), R (basic)<br>
 * **Language:** Native in Mandarin Chinese, Proficient in English (TOEFL: 100), Intermediate in French<br>
-   * TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)<br>
-   **[My TOEFL Score Report](/assets/Score Report.pdf)**
+   * TOEFL: 100 (Reading: 29, Listening: 25, Speaking: 23; Writing: 23)
