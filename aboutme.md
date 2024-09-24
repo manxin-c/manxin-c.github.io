@@ -14,7 +14,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   
 #### **Nucleosome Structure:**
 
-- Exploring the mechanisms underlying the assembly of the histone octamer with specific chaperones or remodelers.
+- Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones or remodelers.
   
 #### **Key Words:**
 
