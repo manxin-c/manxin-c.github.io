@@ -12,7 +12,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 
 - Investigating how histone modifications regulate chromatin structure and gene expression and the role of key macromolecular complexes in this process.
   
-#### **Nucleosome Structure:**
+#### **Nucleosome Chaperones & Remodelers:**
 
 - Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones or remodelers.
   
