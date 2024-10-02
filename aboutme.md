@@ -12,9 +12,10 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
 
 - Investigating how histone modifications regulate chromatin structure and gene expression and the role of key macromolecular complexes in this process.
   
-#### **Nucleosome Chaperones & Remodelers:**
+#### **Chromatin Chaperones & Remodelers:**
 
-- Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones or remodelers.
+- Nucleosome/Histone: Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones.
+- Chromatin: Elucidating the molecular and biophysical basis of chromatin organization during gene activation and silencing.
   
 #### **Key Words:**
 
