@@ -51,7 +51,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   - Model Student Scholarship - May 2024 
 
 ## Skills
-* **Molecular Biology & Biochemistry:** PCR, Agarose Gel Electrophoresis, SDS-PAGE, Nickel Affinity Gravity Column Chromatography, Flag-tag Protein Purification, FPLC, Size Exclusion Chromatography, Western Blotting, AlphaLISA Assay, Radioactivity Assay, Fluorescence Anisotropy<br>
+* **Molecular Biology & Biochemistry:** PCR, Agarose Gel Electrophoresis, SDS-PAGE, Nickel Affinity Gravity Column Chromatography, Flag-tag Protein Purification, FPLC, Size Exclusion Chromatography, Western Blotting, AlphaLISA Assay, Methylation Activity Assay, Fluorescence Anisotropy<br>
 * **Structural Biology:** Preliminary Screening for X-ray Crystallization Conditions<br>
 * **Observed Techniques:** SPR, Flow Cytometry, Negative Staining, X-ray Crystallography, Cryo-EM<br>
 * **Computational:** Python(basic), R (basic)<br>
