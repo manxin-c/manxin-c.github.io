@@ -19,7 +19,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   
 #### **Key Words:**
 
-- Structural Biology, Histone Modification, Nucleosome Chaperones & Remodelers.
+- Structural Biology, Histone Modification, Chromatin Chaperones & Remodelers.
 
 ## Academic Achievements
 
