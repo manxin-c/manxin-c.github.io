@@ -11,8 +11,8 @@ date: 2024-09-11 22:57:47 -0700  # 您可以根据需要设置或更新这个日
 
 <p style="font-size: 17px;"><strong>Histone Modifications:</strong> Investigating how histone modifications regulate chromotin structure and gene expression and the role of key macromolecular complexes in this process.</p>
 
-<p style="font-size: 17px;"><strong>Nucleosome/Histone: Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones.</p>
+<p style="font-size: 17px;">Nucleosome/Histone: Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones.</p>
 
-<p style="font-size: 17px;"><strong>Chromatin: Elucidating the molecular and biophysical basis of chromatin organization during gene activation and silencing.</p>
+<p style="font-size: 17px;">Chromatin: Elucidating the molecular and biophysical basis of chromatin organization during gene activation and silencing.</p>
 
 <p><strong style="font-size: 16px;"><a href="https://manxin-c.github.io/aboutme/">More details</a></strong></p> 
