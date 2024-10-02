@@ -14,7 +14,7 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   
 #### **Chromatin Chaperones & Remodelers:**
 
-- Nucleosome/Histone: Exploring the mechanisms underlying the assembly and maintenance of the histone octamer with specific chaperones.
+- Nucleosome/Histone: Exploring the mechanisms underlying the assembly & maintenance & regulation of the histone octamer with specific chaperones.
 - Chromatin: Elucidating the molecular and biophysical basis of chromatin organization during gene activation and silencing.
   
 #### **Key Words:**
