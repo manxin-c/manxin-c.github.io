@@ -39,7 +39,6 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
   - Advanced Mathematics B1: 93
   - Advanced Mathematics B2: 91
   - Enzyme Engineering: 92
-- **[My transcript](/assets/Transcript.pdf)**
 
 #### **Main Honors and Scholarships:**
 
