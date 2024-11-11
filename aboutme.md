@@ -8,18 +8,17 @@ I am a fourth-year undergraduate in Biotechnology at Inner Mongolia University i
  
 ## Research Interests
 
-#### **Histone Modifications:**
+#### **Nucleosome-related proteins:**
 
-- Investigating how histone modifications regulate chromatin structure and gene expression and the role of key macromolecular complexes in this process.
+- Investigating how histone modifications regulate chromatin structure and gene expression and the role of key macromolecular complexes in this process; exploring the mechanisms underlying the assembly, maintenance, and regulation of the histone octamer with specific chaperones.
   
-#### **Chromatin Chaperones & Remodelers:**
+#### **Ribosome-related proteins:**
 
-- Nucleosome/Histone: Exploring the mechanisms underlying the assembly & maintenance & regulation of the histone octamer with specific chaperones.
-- Chromatin: Elucidating the molecular and biophysical basis of chromatin organization during gene activation and silencing.
+- Understanding how ribosomes assemble themselves and how to regulate this process.
   
 #### **Key Words:**
 
-- Structural Biology, Histone Modification, Chromatin Chaperones & Remodelers.
+- Structural Biology, Histone Modification, Chromatin Chaperones & Remodelers, Ribosome assemble.
 
 ## Academic Achievements
 
