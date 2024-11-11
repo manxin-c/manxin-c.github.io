@@ -7,7 +7,7 @@ date: 2024-09-17
 <h1 style="font-size: 22px;">1. Characterization of DNMT3A Mutants in Binding to Histone Modifications for Mapping Unknown Interaction Sites</h1>
 
 Summer Research Scholar---UCSB, [Reich lab](https://reich.chem.ucsb.edu/)             
-July 2024-Present
+July 2024-Octomber 2024
 
 #### Project Overview: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DNA methyltransferase 3A (DNMT3A) interacts with histone modifications, playing a key role in gene regulation and contributing to the development of cancers and other diseases. However, the exact locations where some histone modifications bind to DNMT3A are still unknown.<br>
