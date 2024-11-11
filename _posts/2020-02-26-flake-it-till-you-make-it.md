@@ -16,8 +16,8 @@ title: Research experience
   <div style="flex: 0 1 100%; display: flex; align-items: center;">
     <div style="flex: 1;">
       <strong style="font-size: 16px; line-height: 1;"><a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 17px;"><u>Reich Lab</u></a>, UCSB, Santa Barbara, CA</strong>
-      <p style="font-size: 16px; line-height: 1;">Summer Research Scholar. July 2024 - Present</p>
-      <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;"><u>Prof. Norbert Reich</u></a></p> 
+      <p style="font-size: 16px; line-height: 1;">Summer Research Scholar. July 2024 - Octomber 2024</p>
+      <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;"><u>Distinguished Professor Norbert Reich</u></a></p> 
     </div>
     <div>
       <img src="/assets/img/UCSB.png" alt="UCSB" style="height: 100px;">
@@ -28,7 +28,7 @@ title: Research experience
     <div style="flex: 1;">
       <strong style="font-size: 16px; line-height: 1;">Zhou Lab, Inner Mongolia University, Inner Mongolia, China</strong>
       <p style="font-size: 16px; line-height: 1;">Undergraduate student. March 2024 - Present</p>
-      <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank"><u>Lecturer Zhou, Xiaoting</u></a></p>
+      <p style="font-size: 16px; line-height: 1;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank"><u>Assistant Professor Zhou, Xiaoting</u></a></p>
     </div>
     <div>
       <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
