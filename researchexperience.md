@@ -52,7 +52,7 @@ date: 2024-09-17
       Zhou Lab, Inner Mongolia University, Inner Mongolia, China
     </strong>
     <p style="font-size: 17px; margin: 0;">Undergraduate student. March 2024 - Present</p>
-    <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Lecturer Zhou, Xiaoting</a></p>
+    <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://smkxxy.imu.edu.cn/info/1043/3217.htm" target="_blank">Assistant Professor Zhou, Xiaoting</a></p>
     <p style="font-size: 15px; margin: 0;"><strong>New Techniques Learned:</strong> Western Blotting</p>
     <p style="font-size: 15px; margin: 0;"><strong>New Techniques Observed:</strong> Cryo-EM</p>
   </div>
@@ -60,7 +60,7 @@ date: 2024-09-17
     <img src="/assets/img/IMU.png" alt="IMU" style="height: 100px;">
   </div>
 </div>
-<p style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When I returned to my home university, I sought out a professor who focused on structural biology so that I could apply for a summer research lab in the same field. I was fortunate to find Lecturer Zhou, who works on membrane proteins, particularly Complex II in the respiratory chain, and she welcomed me into her lab. This was my first time managing an entire project independently, from primer design to protein purification using size-exclusion chromatography, with minimal guidance from others. I was also responsible for fine-tuning the experimental conditions, including the concentration and composition of buffers, and for understanding how various factors could impact protein stability or yield. Previously, I had not delved deeply into these aspects, as my role was primarily to execute the instructions given by graduate students.<br>
+<p style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When I returned to my home university, I sought out a professor who focused on structural biology so that I could apply for a summer research lab in the same field. I was fortunate to find Prof. Zhou, who works on membrane proteins, particularly Complex II in the respiratory chain, and she welcomed me into her lab. This was my first time managing an entire project independently, from primer design to protein purification using size-exclusion chromatography, with minimal guidance from others. I was also responsible for fine-tuning the experimental conditions, including the concentration and composition of buffers, and for understanding how various factors could impact protein stability or yield. Previously, I had not delved deeply into these aspects, as my role was primarily to execute the instructions given by graduate students.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project was more challenging than I anticipated, as I faced difficulties in achieving a high yield of proteins with the correct proportion of subunits needed to form a functional complex. I explored various strategies, such as truncating random coil regions and testing different vector combinations, but we did not obtain the desired results. Nevertheless, this hands-on experience greatly honed my proficiency in operational techniques and enhanced my grasp of the experimental process and all the trivial details I had to pay attention to.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I remained committed to solving the problem and continued my efforts until I received my visa, which was an important step toward my next research journey.</p>
 
@@ -71,7 +71,7 @@ date: 2024-09-17
     <strong style="font-size: 17px; margin-bottom: 0;">
       <a href="https://reich.chem.ucsb.edu/" target="_blank" style="font-size: 17px;">Reich Lab</a>, UCSB, Santa Barbara, CA
     </strong>
-    <p style="font-size: 17px; margin: 0;">Summer Research Scholar. July 2024 - Present</p>
+    <p style="font-size: 17px; margin: 0;">Summer Research Scholar. July 2024 - Octomber 2024</p>
     <p style="font-size: 17px; margin: 0;">Advisor: <a href="https://reich.chem.ucsb.edu/people/norbert-reich" target="_blank" style="font-size: 17px;">Prof. Norbert Reich</a></p>
     <p style="font-size: 15px; margin: 0;"><strong>New Techniques Learned:</strong> FPLC, Radioactivity Assay, Fluorescence Anisotropy</p>
   </div>
